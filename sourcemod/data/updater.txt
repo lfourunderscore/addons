@@ -1,0 +1,36 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"2.11.1"
+			"Previous"	"2.11.0"
+		}
+		
+		"Notes"	"Find a list of my plugins (and links to their threads) at www.doctormckay.com. Changes:"
+		"Notes" " - Added Uncraftable Haunted quality"
+	}
+	
+	"Files"
+	{
+		"Patch"
+		{
+			"Plugin"	"Path_SM/plugins/backpack-tf.smx"
+			"Source"	"Path_SM/scripting/backpack-tf.sp"
+		}
+		
+		"Plugin"	"Path_SM/plugins/backpack-tf.smx"
+		"Plugin"	"Path_SM/translations/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/pl/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/da/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/nl/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/es/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/de/backpack-tf.phrases.txt"
+		"Plugin"	"Path_SM/translations/ru/backpack-tf.phrases.txt"
+		
+		"Source"	"Path_SM/scripting/backpack-tf.sp"
+		"Source"	"Path_SM/scripting/mckayupdater.sp"
+		"Source"	"Path_SM/scripting/include/advanced_motd.inc"
+	}
+}

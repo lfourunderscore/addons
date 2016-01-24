@@ -1,0 +1,34 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S" //center
+		"text"		"{GREEN}Type {RED}!motd{GREEN} in chat to see how to donate!"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{RED}Is someone breaking rules? Type {GREEN}!admins{RED} in chat to see online admins!"
+	}
+	"3"
+	{
+		"type" 		"S"
+		"text"		"{RED}Feel free to add us to your favorites! {BLUE}{FULL_IP}"
+	}
+	"4"
+	{
+		"type"		"S" //center and bottom
+		"text"		"{BLUE}Thanks for donating! You can see your commands by typing {LIME}!motd{BLUE} in the chat"
+		"flags"		"o"
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"{PURPLE}Type {CYAN}!bp <name>{PURPLE} to look at someone's backpack, or {CYAN}!pc <item>{PURPLE} to look up the price of an item"
+	}
+	"6`"
+	{
+		"type"		"S" //middleleft
+		"text"		"{VIOLET}Next map is {NEXTMAP} in {TIMELEFT} minutes."
+	}
+}

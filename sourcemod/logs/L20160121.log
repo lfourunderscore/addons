@@ -1,0 +1,1062 @@
+L 01/21/2016 - 08:31:59: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 08:31:59: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 08:32:00: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 08:32:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 08:32:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 08:32:00: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 08:32:00: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 08:32:00: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 08:32:13: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 08:32:13: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 08:32:54: Log file closed.
+L 01/21/2016 - 08:33:11: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 08:33:11: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 08:33:11: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 08:33:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 08:33:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 08:33:11: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 08:33:11: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 08:33:11: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 08:33:17: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 08:33:17: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 08:33:40: Log file closed.
+L 01/21/2016 - 10:04:09: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 10:04:09: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 10:04:09: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 10:04:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 10:04:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 10:04:09: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 10:04:09: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 10:04:09: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 10:04:15: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 10:04:15: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 10:31:16: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 01/21/2016 - 10:35:24: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 10:37:09: [basecomm.smx] "Tropetre<2><[U:1:70376750]><>" muted "Tropetre<2><[U:1:70376750]><>"
+L 01/21/2016 - 10:37:24: [playercommands.smx] "Tropetre<2><[U:1:70376750]><>" slayed "Tropetre<2><[U:1:70376750]><>"
+L 01/21/2016 - 10:37:29: [funcommands.smx] "Tropetre<2><[U:1:70376750]><>" ignited "Tropetre<2><[U:1:70376750]><>" (seconds "20.000000")
+L 01/21/2016 - 10:40:01: [basebans.smx] "Tropetre<2><[U:1:70376750]><>" banned "Tropetre<2><[U:1:70376750]><>" (minutes "5") (reason "")
+L 01/21/2016 - 11:19:38: [mapchooser.smx] Voting for next map has started.
+L 01/21/2016 - 11:31:32: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 11:31:32: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 11:31:32: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 11:31:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 11:31:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 11:31:32: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 11:31:32: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 11:31:32: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 11:31:38: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 11:31:38: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 12:38:35: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 12:38:35: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 12:38:35: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 12:38:35: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 12:38:35: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 12:38:35: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 12:38:35: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 12:38:35: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 12:38:40: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 12:38:40: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 12:49:37: [playercommands.smx] "Console<0><Console><Console>" slayed "L4Z0R_ [H]<2><[U:1:163892789]><>"
+L 01/21/2016 - 12:51:42: [funcommands.smx] "Console<0><Console><Console>" drugged "L4Z0R_ [H]<3><[U:1:163892789]><>"
+L 01/21/2016 - 12:53:16: [playercommands.smx] "L4Z0R_ [H]<3><[U:1:163892789]><>" slayed "L4Z0R_ [H]<3><[U:1:163892789]><>"
+L 01/21/2016 - 12:53:39: [advcommands.smx] "L4Z0R_ [H]<3><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<3><[U:1:163892789]><>" to 10000
+L 01/21/2016 - 13:24:11: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:24:11: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:24:11: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:24:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:24:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:24:11: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:24:11: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:24:11: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:24:16: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:24:16: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:46:28: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:46:28: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:46:28: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:46:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:46:28: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:46:28: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:46:28: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:46:28: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:46:34: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:46:34: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:50:25: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:50:25: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:50:25: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:50:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:50:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:50:25: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:50:25: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:50:25: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:50:30: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:50:30: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:50:38: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:50:38: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:50:38: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:50:38: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:50:38: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:50:38: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:50:38: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:50:38: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:50:44: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:50:44: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:50:47: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:50:47: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:50:47: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:50:47: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:50:47: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:50:47: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:50:47: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:50:47: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:50:53: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:50:53: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:51:46: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:51:46: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:51:46: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:51:46: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:51:46: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:51:46: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:51:46: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:51:46: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:51:52: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:51:52: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:56:39: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 13:56:39: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 13:56:39: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 13:56:39: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 13:56:39: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 13:56:39: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 13:56:39: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 13:56:39: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 13:56:45: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 13:56:45: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 13:58:35: Log file closed.
+L 01/21/2016 - 14:00:59: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 14:00:59: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 14:00:59: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 14:00:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 14:00:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 14:00:59: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 14:00:59: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 14:00:59: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 14:01:05: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 14:01:05: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 14:04:50: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 14:04:50: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 14:04:50: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 14:04:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 14:04:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 14:04:50: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 14:04:50: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 14:04:50: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 14:04:55: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 14:04:55: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 14:08:01: [sm_evilrocket.smx] "Console<0><Console><Console>" sent "[H] Satanic Hattu<2><[U:1:44072258]><>" into space
+L 01/21/2016 - 14:10:01: [advcommands.smx] "Console<0><Console><Console>" set health of player "[H] Satanic Hattu<2><[U:1:44072258]><>" to 69420360
+L 01/21/2016 - 14:10:44: [advcommands.smx] "Console<0><Console><Console>" set godmode of player "[H] Satanic Hattu<2><[U:1:44072258]><>" to 1
+L 01/21/2016 - 14:11:02: [funcommands.smx] "Console<0><Console><Console>" toggled noclip on "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 14:11:33: [AdvancedInfiniteAmmo.smx] "Console<0><Console><Console>" Enabled Advanced Infinite Ammo for  "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 14:13:09: [advcommands.smx] "Console<0><Console><Console>" executed command "ent_create" on "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 14:20:41: [mapchooser.smx] Starting map vote because outside request
+L 01/21/2016 - 14:20:41: [mapchooser.smx] Voting for next map has started.
+L 01/21/2016 - 14:20:48: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 01/21/2016 - 14:28:22: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 14:28:22: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 14:28:22: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 14:28:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 14:28:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 14:28:22: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 14:28:22: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 14:28:22: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 14:28:28: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 14:28:28: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 14:38:13: Log file closed.
+L 01/21/2016 - 14:56:38: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 14:56:38: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 14:56:38: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 14:56:38: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 14:56:38: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 14:56:38: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 14:56:38: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 14:56:38: [rtd.smx] Loaded 35 effects: (19 good) (16 bad).
+L 01/21/2016 - 14:56:43: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 14:56:43: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 15:11:35: [funcommands.smx] "Console<0><Console><Console>" toggled noclip on "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 15:13:19: [basechat.smx] "Console<0><Console><Console>" triggered sm_csay (text AYYYYYY LMAOOOO)
+L 01/21/2016 - 15:14:27: [advcommands.smx] "Console<0><Console><Console>" set godmode of player "[H] Satanic Hattu<2><[U:1:44072258]><>" to 1
+L 01/21/2016 - 15:22:22: Log file closed.
+L 01/21/2016 - 15:22:30: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 15:22:30: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 15:22:30: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 15:22:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 15:22:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 15:22:30: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 15:22:30: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 15:22:30: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 15:22:36: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 15:22:36: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 15:22:36: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 15:27:24: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<5><[U:1:163892789]><>" to 1
+L 01/21/2016 - 15:27:33: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<5><[U:1:163892789]><>"
+L 01/21/2016 - 15:28:01: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "australian sniper (soldier)<4><[U:1:85764995]><>" to 10000
+L 01/21/2016 - 15:28:21: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "[H] Satanic Hattu<2><[U:1:44072258]><>" to 10000
+L 01/21/2016 - 15:28:21: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "[H] doperfork<3><[U:1:141402642]><>" to 10000
+L 01/21/2016 - 15:28:21: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "australian sniper (soldier)<4><[U:1:85764995]><>" to 10000
+L 01/21/2016 - 15:28:21: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<5><[U:1:163892789]><>" to 10000
+L 01/21/2016 - 15:28:45: [sm_evilbeam.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" placed an evil beam on "L4Z0R_ [H]<5><[U:1:163892789]><>"
+L 01/21/2016 - 15:30:35: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 15:30:35: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] doperfork<3><[U:1:141402642]><>"
+L 01/21/2016 - 15:30:35: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "australian sniper (soldier)<4><[U:1:85764995]><>"
+L 01/21/2016 - 15:30:35: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<5><[U:1:163892789]><>"
+L 01/21/2016 - 15:30:46: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "[H] Satanic Hattu<2><[U:1:44072258]><>" to 10000
+L 01/21/2016 - 15:30:46: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "[H] doperfork<3><[U:1:141402642]><>" to 10000
+L 01/21/2016 - 15:30:46: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "australian sniper (soldier)<4><[U:1:85764995]><>" to 10000
+L 01/21/2016 - 15:30:46: [advcommands.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<5><[U:1:163892789]><>" to 10000
+L 01/21/2016 - 15:31:43: [sm_evilbeam.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" placed an evil beam on "[H] Satanic Hattu<2><[U:1:44072258]><>"
+L 01/21/2016 - 15:32:41: [mapchooser.smx] Starting map vote because outside request
+L 01/21/2016 - 15:32:41: [mapchooser.smx] Voting for next map has started.
+L 01/21/2016 - 15:32:51: [mapchooser.smx] Voting for next map has finished. Nextmap: ctf_sawmill.
+L 01/21/2016 - 15:32:53: [SM] Changed map to "ctf_sawmill"
+L 01/21/2016 - 15:32:55: -------- Mapchange to ctf_sawmill --------
+L 01/21/2016 - 15:33:56: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<5><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<5><[U:1:163892789]><>"
+L 01/21/2016 - 15:44:57: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 01/21/2016 - 15:45:10: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 15:50:01: [custom-chatcolors.smx] Reloaded Custom Chat Colors config file
+L 01/21/2016 - 15:53:53: [advcommands.smx] "[H] Tairuu -TPF-<11><[U:1:80406531]><>" swapped teams
+L 01/21/2016 - 15:54:23: [advcommands.smx] "[H] Tairuu -TPF-<11><[U:1:80406531]><>" swapped teams
+L 01/21/2016 - 16:06:53: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:07:03: Log file closed.
+L 01/21/2016 - 16:07:11: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 16:07:11: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 16:07:11: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 16:07:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 16:07:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 16:07:11: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 16:07:11: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 16:07:11: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 16:07:17: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 16:07:17: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 16:07:17: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 16:12:50: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:13:23: [basecommands.smx] "L4Z0R_ [H]<2><[U:1:163892789]><>" console command (cmdline "restart")
+L 01/21/2016 - 16:13:40: Log file closed.
+L 01/21/2016 - 16:13:49: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 16:13:49: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 16:13:49: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 16:13:49: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 16:13:49: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 16:13:49: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 16:13:49: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 16:13:49: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 16:13:55: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 16:13:55: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 16:13:55: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 16:17:37: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:19:39: [basecommands.smx] "L4Z0R_ [H]<3><[U:1:163892789]><>" console command (cmdline "selfpunisher 1")
+L 01/21/2016 - 16:20:52: Log file closed.
+L 01/21/2016 - 16:21:01: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 16:21:01: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 16:21:01: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 16:21:01: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 16:21:01: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 16:21:01: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 16:21:01: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 16:21:01: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 16:21:07: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 16:21:07: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 16:21:07: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 16:21:27: [basecommands.smx] "L4Z0R_ [H]<3><[U:1:163892789]><>" console command (cmdline "selfpunisher 1")
+L 01/21/2016 - 16:26:31: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:40:00: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:43:21: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:44:52: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:45:02: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:47:09: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:48:02: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 16:54:05: Log file closed.
+L 01/21/2016 - 16:54:13: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 16:54:13: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 16:54:13: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 16:54:13: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 16:54:13: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 16:54:13: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 16:54:13: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 16:54:13: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 16:54:19: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 16:54:19: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 16:54:19: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 17:21:48: Log file closed.
+L 01/21/2016 - 17:21:57: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 17:21:57: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 17:21:57: [TF2ITEMS] "GiveNamedItem" offset = 478
+L 01/21/2016 - 17:21:57: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 17:21:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 17:21:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 17:21:57: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 17:21:57: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 17:21:57: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 17:22:03: [UPDATER] Successfully updated gamedata file "tf2.items.txt"
+L 01/21/2016 - 17:22:03: Log file closed.
+L 01/21/2016 - 17:22:04: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 17:22:04: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 17:22:04: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 01/21/2016 - 17:22:04: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 17:22:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 17:22:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 17:22:04: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 17:22:04: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 17:22:04: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 17:22:10: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 17:22:10: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 17:22:10: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 17:22:58: [mapchooser.smx] Starting map vote because outside request
+L 01/21/2016 - 17:22:58: [mapchooser.smx] Voting for next map has started.
+L 01/21/2016 - 17:23:13: [mapchooser.smx] Voting for next map has finished. Nextmap: cp_badlands.
+L 01/21/2016 - 17:23:15: [SM] Changed map to "cp_badlands"
+L 01/21/2016 - 17:23:18: -------- Mapchange to cp_badlands --------
+L 01/21/2016 - 17:26:17: Log file closed.
+L 01/21/2016 - 17:26:25: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 17:26:25: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 17:26:25: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 01/21/2016 - 17:26:25: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 17:26:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 17:26:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 17:26:25: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 17:26:25: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 17:26:25: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 17:26:31: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 17:26:31: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 17:26:31: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 17:28:42: Log file closed.
+L 01/21/2016 - 17:28:50: SourceMod log file session started (file "L20160121.log") (Version "1.7.3-dev+5290")
+L 01/21/2016 - 17:28:50: -------- Mapchange to ctf_2fort --------
+L 01/21/2016 - 17:28:50: [TF2ITEMS] "GiveNamedItem" offset = 479
+L 01/21/2016 - 17:28:50: [GEOIP] GeoIP database info: GEO-106FREE 20160105 Build 1 Copyright (c) 2016 MaxMind Inc All Rights Reserved
+L 01/21/2016 - 17:28:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/21/2016 - 17:28:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/21/2016 - 17:28:50: [rtd.smx] File test for rtd.phrases.txt: PASSED!
+L 01/21/2016 - 17:28:50: [rtd.smx] File test for rtd_effects.cfg: PASSED!
+L 01/21/2016 - 17:28:50: [rtd.smx] Loaded 34 effects: (19 good) (15 bad).
+L 01/21/2016 - 17:28:56: [rtd.smx] Added chat trigger: rollthedice
+L 01/21/2016 - 17:28:56: [rtd.smx] Added chat trigger: roll
+L 01/21/2016 - 17:28:56: [rtd.smx] Perk disabled: .
+L 01/21/2016 - 17:32:49: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 17:41:16: [tauntspeed.smx] Loaded Taunt Speed Config Successfully.
+L 01/21/2016 - 17:41:21: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/21/2016 - 17:46:58: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" extended map for 100000 minutes
+L 01/21/2016 - 17:47:43: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed map to "arena_sawmill"
+L 01/21/2016 - 17:47:46: [SM] Changed map to "arena_sawmill"
+L 01/21/2016 - 17:47:47: -------- Mapchange to arena_sawmill --------
+L 01/21/2016 - 17:47:53: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 17:58:36: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 1
+L 01/21/2016 - 17:59:13: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 0
+L 01/21/2016 - 18:09:28: [basechat.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" triggered sm_csay (text w+m1s furiously)
+L 01/21/2016 - 18:11:28: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Satanic Hattu<5><[U:1:44072258]><>"
+L 01/21/2016 - 18:11:28: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Juan Cena<6><[U:1:296913150]><>"
+L 01/21/2016 - 18:11:28: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<8><[U:1:163892789]><>"
+L 01/21/2016 - 18:11:28: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "spychecker in buisness[Urfsaad]<15><[U:1:300383411]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<9><[U:1:80406531]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] doperfork<3><[U:1:141402642]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Satanic Hattu<5><[U:1:44072258]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Juan Cena<6><[U:1:296913150]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<8><[U:1:163892789]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "TartilusLP<14><[U:1:311279070]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "spychecker in buisness[Urfsaad]<15><[U:1:300383411]><>"
+L 01/21/2016 - 18:12:13: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Daddy Know-It-All<17><[U:1:132005047]><>"
+L 01/21/2016 - 18:15:34: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed map to "pl_upward"
+L 01/21/2016 - 18:15:37: [SM] Changed map to "pl_upward"
+L 01/21/2016 - 18:15:39: -------- Mapchange to pl_upward --------
+L 01/21/2016 - 18:15:44: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] Tairuu -TPF-<9><[U:1:80406531]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] doperfork<3><[U:1:141402642]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] Polkanis<19><[U:1:88639470]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] Satanic Hattu<5><[U:1:44072258]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] Juan Cena<6><[U:1:296913150]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "Acce ^_^<20><[U:1:192932920]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "Honnest pie<30><[U:1:252993179]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "DERP POTETO<28><[U:1:155198672]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "Daddy Know-It-All<17><[U:1:132005047]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "BYS | ilm9001<34><[U:1:112798961]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "D-Ocelot<31><[U:1:153766114]><>" to 10000
+L 01/21/2016 - 18:19:31: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "[H] Lion<32><[U:1:87541102]><>" to 10000
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] Tairuu -TPF-<9><[U:1:80406531]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] doperfork<3><[U:1:141402642]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] Polkanis<19><[U:1:88639470]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] Satanic Hattu<5><[U:1:44072258]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] Juan Cena<6><[U:1:296913150]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "L4Z0R_ [H]<8><[U:1:163892789]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "Acce ^_^<20><[U:1:192932920]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "Honnest pie<30><[U:1:252993179]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "DERP POTETO<28><[U:1:155198672]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "Daddy Know-It-All<17><[U:1:132005047]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "BYS | ilm9001<34><[U:1:112798961]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "[H] Lion<32><[U:1:87541102]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "Hay [H]<33><[U:1:187011732]><>" to 1hp
+L 01/21/2016 - 18:20:56: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" changed the health of "☮DatGuy☮<35><[U:1:171517083]><>" to 1hp
+L 01/21/2016 - 18:22:09: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_unbalance_limit")
+L 01/21/2016 - 18:22:21: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_teams_unbalance_limit 1000")
+L 01/21/2016 - 18:22:44: [sm_evilhealth.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" reset the health of "Daddy Know-It-All<17><[U:1:132005047]><>"
+L 01/21/2016 - 18:23:00: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 1
+L 01/21/2016 - 18:23:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 2
+L 01/21/2016 - 18:23:08: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 3
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Tairuu -TPF-<9><[U:1:80406531]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] doperfork<3><[U:1:141402642]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Polkanis<19><[U:1:88639470]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Satanic Hattu<5><[U:1:44072258]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Juan Cena<6><[U:1:296913150]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Acce ^_^<20><[U:1:192932920]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Honnest pie<30><[U:1:252993179]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "DERP POTETO<28><[U:1:155198672]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Daddy Know-It-All<17><[U:1:132005047]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "BYS | ilm9001<34><[U:1:112798961]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Lion<32><[U:1:87541102]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Hay [H]<33><[U:1:187011732]><>" to 2
+L 01/21/2016 - 18:23:23: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "☮DatGuy☮<35><[U:1:171517083]><>" to 2
+L 01/21/2016 - 18:24:03: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_damage_multiplier_red 1000")
+L 01/21/2016 - 18:24:13: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_damage_multiplier_red 100")
+L 01/21/2016 - 18:24:34: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 100000
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "[H] Tairuu -TPF-<9><[U:1:80406531]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "[H] doperfork<3><[U:1:141402642]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "[H] Polkanis<19><[U:1:88639470]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "[H] Juan Cena<6><[U:1:296913150]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<8><[U:1:163892789]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "Acce ^_^<20><[U:1:192932920]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "DERP POTETO<28><[U:1:155198672]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "BYS | ilm9001<34><[U:1:112798961]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "[H] Lion<32><[U:1:87541102]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "Hay [H]<33><[U:1:187011732]><>"
+L 01/21/2016 - 18:25:21: [funcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" toggled noclip on "☮DatGuy☮<35><[U:1:171517083]><>"
+L 01/21/2016 - 18:25:50: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "ent_create tank_boss")
+L 01/21/2016 - 18:26:48: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_humans_must_join_team red")
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Tairuu -TPF-<9><[U:1:80406531]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] doperfork<3><[U:1:141402642]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Polkanis<19><[U:1:88639470]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Satanic Hattu<5><[U:1:44072258]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Juan Cena<6><[U:1:296913150]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Acce ^_^<20><[U:1:192932920]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "DERP POTETO<28><[U:1:155198672]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "BYS | ilm9001<34><[U:1:112798961]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Lion<32><[U:1:87541102]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Hay [H]<33><[U:1:187011732]><>" to 3
+L 01/21/2016 - 18:27:03: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "☮DatGuy☮<35><[U:1:171517083]><>" to 3
+L 01/21/2016 - 18:27:10: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Tairuu -TPF-<9><[U:1:80406531]><>" to 2
+L 01/21/2016 - 18:27:10: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] doperfork<3><[U:1:141402642]><>" to 2
+L 01/21/2016 - 18:27:10: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Polkanis<19><[U:1:88639470]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Satanic Hattu<5><[U:1:44072258]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Juan Cena<6><[U:1:296913150]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Acce ^_^<20><[U:1:192932920]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "DERP POTETO<28><[U:1:155198672]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "BYS | ilm9001<34><[U:1:112798961]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "[H] Lion<32><[U:1:87541102]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "Hay [H]<33><[U:1:187011732]><>" to 2
+L 01/21/2016 - 18:27:11: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set team of player "☮DatGuy☮<35><[U:1:171517083]><>" to 2
+L 01/21/2016 - 18:27:27: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_force_class heavyweapons")
+L 01/21/2016 - 18:27:41: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_add red 100")
+L 01/21/2016 - 18:28:03: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_kick all")
+L 01/21/2016 - 18:28:08: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_add blue 100")
+L 01/21/2016 - 18:29:19: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<8><[U:1:163892789]><>" to 1000
+L 01/21/2016 - 18:29:39: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_kick all")
+L 01/21/2016 - 18:29:45: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_humans_must_join_team any")
+L 01/21/2016 - 18:29:52: [advcommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" balanced teams
+L 01/21/2016 - 18:30:49: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_team_unbalance_limit 1")
+L 01/21/2016 - 18:31:02: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "mp_teams_unbalance_limit 1")
+L 01/21/2016 - 18:32:22: [basevotes.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" initiated a generic vote.
+L 01/21/2016 - 18:32:50: [basecommands.smx] "L4Z0R_ [H]<8><[U:1:163892789]><>" console command (cmdline "tf_bot_add 10")
+L 01/21/2016 - 18:50:44: [advcommands.smx] "Console<0><Console><Console>" set health of player "[H] doperfork<3><[U:1:141402642]><>" to 1000
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "[H] doperfork<3><[U:1:141402642]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "Swooosher<90><[U:1:83811679]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "Totally Not A Bot<76><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "[H] Juan Cena<6><[U:1:296913150]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "[NLR] Princess LunaPie<36><[U:1:85068211]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "Pow!<77><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "The Combine<74><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "Thuglife<75><[U:1:311096548]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "Zepheniah Mann<78><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "THEM<79><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "LOS LOS LOS<80><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "10001011101<81><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "DeadHead<82><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "ZAWMBEEZ<83><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "MindlessElectrons<84><BOT><>"
+L 01/21/2016 - 18:51:18: [sm_evilbeam.smx] "Console<0><Console><Console>" placed an evil beam on "TAAAAANK!<85><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "[H] doperfork<3><[U:1:141402642]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "Swooosher<90><[U:1:83811679]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "Totally Not A Bot<76><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" placed an evil beam on "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" placed an evil beam on "L4Z0R_ [H]<94><[U:1:163892789]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "Pow!<77><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "The Combine<74><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "Zepheniah Mann<78><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "THEM<79><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "LOS LOS LOS<80><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "10001011101<81><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "DeadHead<82><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "ZAWMBEEZ<83><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "MindlessElectrons<84><BOT><>"
+L 01/21/2016 - 18:58:20: [sm_evilbeam.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" removed an evil beam from "TAAAAANK!<85><BOT><>"
+L 01/21/2016 - 18:58:41: [basecommands.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" console command (cmdline "tf_bot_kick 6")
+L 01/21/2016 - 19:02:36: [advcommands.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<94><[U:1:163892789]><>" to 100000
+L 01/21/2016 - 19:04:27: [basecommands.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" console command (cmdline "tf_bot_kick all")
+L 01/21/2016 - 19:04:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:04:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 19:04:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 19:04:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<94><[U:1:163892789]><>"
+L 01/21/2016 - 19:04:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<94><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<25><[U:1:49073532]><>"
+L 01/21/2016 - 19:12:00: [SM] Changed map to "ctf_turbine"
+L 01/21/2016 - 19:12:01: -------- Mapchange to ctf_turbine --------
+L 01/21/2016 - 19:12:06: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 19:16:04: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:16:30: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:16:40: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2585.7 -700.7 99.0
+L 01/21/2016 - 19:16:44: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:16:54: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:17:02: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2403.2 -692.9 24.0
+L 01/21/2016 - 19:17:03: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2366.4 -648.0 98.6
+L 01/21/2016 - 19:17:05: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2275.2 -527.7 98.8
+L 01/21/2016 - 19:17:06: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2111.3 -525.6 98.5
+L 01/21/2016 - 19:17:06: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 2016.5 -521.7 107.4
+L 01/21/2016 - 19:17:06: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1957.6 -519.5 98.4
+L 01/21/2016 - 19:17:07: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1852.9 -514.3 98.3
+L 01/21/2016 - 19:17:07: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1770.4 -510.4 30.7
+L 01/21/2016 - 19:17:07: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1701.0 -506.0 98.1
+L 01/21/2016 - 19:17:08: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1654.5 -502.6 59.0
+L 01/21/2016 - 19:17:09: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1404.5 -482.1 36.3
+L 01/21/2016 - 19:17:10: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1154.2 -464.0 -88.6
+L 01/21/2016 - 19:17:10: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 964.5 -451.6 -181.6
+L 01/21/2016 - 19:17:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 643.6 -483.5 -180.4
+L 01/21/2016 - 19:17:12: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 557.2 -509.8 -166.1
+L 01/21/2016 - 19:17:12: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 527.6 -523.7 -167.0
+L 01/21/2016 - 19:17:12: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 501.1 -536.4 -180.8
+L 01/21/2016 - 19:17:12: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 480.5 -547.5 -206.2
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 455.4 -560.5 -166.0
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 440.4 -572.3 -229.6
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 419.0 -582.8 -177.1
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 395.4 -589.4 -202.4
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 370.3 -595.7 -252.7
+L 01/21/2016 - 19:17:13: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 345.0 -598.8 -177.3
+L 01/21/2016 - 19:17:14: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 320.3 -599.5 -202.0
+L 01/21/2016 - 19:17:14: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:14: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 290.0 -599.8 -166.4
+L 01/21/2016 - 19:17:14: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:15: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:15: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:15: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -68.5 -631.9 -151.3
+L 01/21/2016 - 19:17:15: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:15: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:15: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:16: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:16: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -266.5 -688.3 -52.2
+L 01/21/2016 - 19:17:16: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:16: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:16: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:16: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:17: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -498.3 -662.5 -30.3
+L 01/21/2016 - 19:17:17: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -525.1 -666.1 -53.1
+L 01/21/2016 - 19:17:17: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:17: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -552.5 -669.9 -75.5
+L 01/21/2016 - 19:17:18: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:18: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -579.1 -673.5 -98.6
+L 01/21/2016 - 19:17:18: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:19: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -572.0 -707.8 -180.9
+L 01/21/2016 - 19:17:19: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:20: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:20: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:21: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:21: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -586.1 -735.8 -198.0
+L 01/21/2016 - 19:17:21: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:21: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:22: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:22: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -600.9 -708.4 -215.5
+L 01/21/2016 - 19:17:23: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:23: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "0")
+L 01/21/2016 - 19:17:24: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -587.2 -543.1 -181.3
+L 01/21/2016 - 19:17:25: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -569.6 -503.1 -180.9
+L 01/21/2016 - 19:17:27: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:27: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:27: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:28: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:29: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:30: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:31: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:31: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:31: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:31: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:32: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:32: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:32: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:33: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:34: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:34: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:34: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:34: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:35: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:36: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -476.3 -464.6 -178.3
+L 01/21/2016 - 19:17:36: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:36: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:36: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -397.8 -477.7 -242.5
+L 01/21/2016 - 19:17:36: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:36: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -350.0 -487.8 -177.9
+L 01/21/2016 - 19:17:36: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:36: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -323.5 -492.4 -202.5
+L 01/21/2016 - 19:17:37: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:37: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -275.8 -499.1 -178.1
+L 01/21/2016 - 19:17:37: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:37: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:37: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -107.8 -515.8 -176.4
+L 01/21/2016 - 19:17:38: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:39: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 262.9 -508.0 -180.9
+L 01/21/2016 - 19:17:39: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:39: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:39: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:40: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 394.1 -505.1 -180.9
+L 01/21/2016 - 19:17:40: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:40: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "1")
+L 01/21/2016 - 19:17:40: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 429.1 -503.1 -180.9
+L 01/21/2016 - 19:17:41: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 464.0 -501.0 -180.9
+L 01/21/2016 - 19:17:42: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 338.5 -508.4 -179.5
+L 01/21/2016 - 19:17:43: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 147.7 -560.9 -180.0
+L 01/21/2016 - 19:17:44: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -366.0 -653.9 -1.9
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:46: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "[H] Qwut<96><[U:1:568878]><>" (damage "10")
+L 01/21/2016 - 19:17:46: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:46: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:46: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slapped "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" (damage "10")
+L 01/21/2016 - 19:17:46: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -254.5 -702.4 -118.6
+L 01/21/2016 - 19:17:47: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -288.1 -712.0 -133.6
+L 01/21/2016 - 19:17:49: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -306.9 -682.5 -58.6
+L 01/21/2016 - 19:17:51: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" blinked player "L4Z0R_ [H]<95><[U:1:163892789]><>" to -589.8 -422.3 -103.5
+L 01/21/2016 - 19:17:58: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" buried player "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:17:58: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" buried player "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 19:17:58: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" buried player "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 19:17:58: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" buried player "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 19:18:07: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:18:15: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" unburied player "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:18:15: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" unburied player "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 19:18:15: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" unburied player "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 19:18:15: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" unburied player "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 19:18:25: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:18:45: [playercommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:19:13: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:19:45: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:20:26: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:21:09: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" changed the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" to 1hp
+L 01/21/2016 - 19:21:20: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" reset the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:21:23: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" changed the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" to 1hp
+L 01/21/2016 - 19:21:34: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" reset the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:21:40: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" changed the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" to 1hp
+L 01/21/2016 - 19:21:43: [playercommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" slayed "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:22:00: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" reset the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:22:34: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" changed the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" to 1hp
+L 01/21/2016 - 19:22:55: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1
+L 01/21/2016 - 19:23:05: [basechat.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" triggered sm_say (text kek)
+L 01/21/2016 - 19:23:12: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 1
+L 01/21/2016 - 19:24:29: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" reset the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>"
+L 01/21/2016 - 19:24:39: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 1
+L 01/21/2016 - 19:24:48: [sm_evilhealth.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" changed the health of "OliverWF Mushroom Senpai<89><[U:1:102474209]><>" to 1hp
+L 01/21/2016 - 19:24:56: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1
+L 01/21/2016 - 19:28:51: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] a<97><[U:1:75878823]><>" to 126
+L 01/21/2016 - 19:29:42: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] a<97><[U:1:75878823]><>" to 1234567
+L 01/21/2016 - 19:29:47: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 1
+L 01/21/2016 - 19:30:16: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] Lion<92><[U:1:87541102]><>" to 1
+L 01/21/2016 - 19:30:22: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 0
+L 01/21/2016 - 19:31:27: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<95><[U:1:163892789]><>" to 1
+L 01/21/2016 - 19:33:19: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] Lion<92><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 19:33:34: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 1
+L 01/21/2016 - 19:34:00: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 0
+L 01/21/2016 - 19:34:09: [advcommands.smx] "[H] Tairuu -TPF-<91><[U:1:80406531]><>" set health of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 10000000
+L 01/21/2016 - 19:34:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] Qwut<96><[U:1:568878]><>" to 0
+L 01/21/2016 - 19:34:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] a<97><[U:1:75878823]><>" to 0
+L 01/21/2016 - 19:34:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] Lion<92><[U:1:87541102]><>" to 0
+L 01/21/2016 - 19:34:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 0
+L 01/21/2016 - 19:34:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set godmode of player "minsin6<99><[U:1:243670320]><>" to 0
+L 01/21/2016 - 19:34:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 200
+L 01/21/2016 - 19:34:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] a<97><[U:1:75878823]><>" to 200
+L 01/21/2016 - 19:34:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] Lion<92><[U:1:87541102]><>" to 200
+L 01/21/2016 - 19:34:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "[H] Tairuu -TPF-<91><[U:1:80406531]><>" to 200
+L 01/21/2016 - 19:34:23: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" set health of player "minsin6<99><[U:1:243670320]><>" to 200
+L 01/21/2016 - 19:36:11: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" opened "https://www.google.se/?gfe_rd=cr&ei=_iShVoP3F4yr8wfPxLHYAg&gws_rd=ssl#q=How+to+give+L4Z0R_+all+your+hats" for "Studmuffin<100><[U:1:103659976]><>"
+L 01/21/2016 - 19:36:27: [advcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" opened "https://www.google.se/?gfe_rd=cr&ei=_iShVoP3F4yr8wfPxLHYAg&gws_rd=ssl#q=How+to+give+L4Z0R_+all+your+hats" for "Studmuffin<100><[U:1:103659976]><>"
+L 01/21/2016 - 19:39:39: [funcommands.smx] "L4Z0R_ [H]<95><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<95><[U:1:163892789]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Derr<104><[U:1:63740253]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] a<97><[U:1:75878823]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<91><[U:1:80406531]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "minsin6<99><[U:1:243670320]><>"
+L 01/21/2016 - 19:43:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 19:44:37: [AdvancedInfiniteAmmo.smx] "Studmuffin<105><[U:1:103659976]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<105><[U:1:103659976]><>"
+L 01/21/2016 - 19:44:39: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" opened "https://forum.encyclopediadramatica.se/attachments/126756-meme-wii-animated-meatspin-gif.16307/" for "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 19:45:01: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" opened "https://forum.encyclopediadramatica.se/attachments/126756-meme-wii-animated-meatspin-gif.16307/" for "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:45:09: [AdvancedInfiniteAmmo.smx] "Studmuffin<105><[U:1:103659976]><>" Disabled Advanced Infinite Ammo for  "Studmuffin<105><[U:1:103659976]><>"
+L 01/21/2016 - 19:45:11: [AdvancedInfiniteAmmo.smx] "Studmuffin<105><[U:1:103659976]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<105><[U:1:103659976]><>"
+L 01/21/2016 - 19:45:15: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" opened "https://forum.encyclopediadramatica.se/attachments/126756-meme-wii-animated-meatspin-gif.16307/" for "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 19:46:14: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<103><[U:1:163892789]><>" to 1
+L 01/21/2016 - 19:48:18: [funvotes.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" initiated a friendly fire vote.
+L 01/21/2016 - 19:48:30: [funvotes.smx] Changing friendly fire to 1 due to vote.
+L 01/21/2016 - 19:50:54: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" opened "https://forum.encyclopediadramatica.se/attachments/126756-meme-wii-animated-meatspin-gif.16307/" for "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 19:51:17: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 19:51:22: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999
+L 01/21/2016 - 19:52:17: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999999
+L 01/21/2016 - 19:52:29: [advcommands.smx] "Studmuffin<105><[U:1:103659976]><>" set health of player "Studmuffin<105><[U:1:103659976]><>" to 69
+L 01/21/2016 - 19:52:52: [advcommands.smx] "Studmuffin<105><[U:1:103659976]><>" set health of player "Studmuffin<105><[U:1:103659976]><>" to 2000
+L 01/21/2016 - 19:52:58: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999999
+L 01/21/2016 - 19:53:00: [advcommands.smx] "Studmuffin<105><[U:1:103659976]><>" set health of player "Studmuffin<105><[U:1:103659976]><>" to 99999
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Derr<104><[U:1:63740253]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] a<97><[U:1:75878823]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "minsin6<99><[U:1:243670320]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<105><[U:1:103659976]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 19:53:12: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 19:53:45: [funcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:54:00: [advcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<103><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 19:54:04: [funcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:54:05: [basechat.smx] "Portello [H]<108><[U:1:55437863]><>" triggered sm_say (text me 999999)
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Derr<104><[U:1:63740253]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] a<97><[U:1:75878823]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Lion<92><[U:1:87541102]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Tairuu -TPF-<107><[U:1:80406531]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "minsin6<99><[U:1:243670320]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Studmuffin<105><[U:1:103659976]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 1000
+L 01/21/2016 - 19:54:10: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000
+L 01/21/2016 - 19:54:15: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 181746141
+L 01/21/2016 - 19:54:16: [funcommands.smx] "L4Z0R_ [H]<103><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<103><[U:1:163892789]><>"
+L 01/21/2016 - 19:58:36: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 69696969
+L 01/21/2016 - 19:59:26: [funvotes.smx] "Portello [H]<108><[U:1:55437863]><>" initiated a friendly fire vote.
+L 01/21/2016 - 19:59:47: [funvotes.smx] Changing friendly fire to 0 due to vote.
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] Derr<104><[U:1:63740253]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] a<97><[U:1:75878823]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "Studmuffin<105><[U:1:103659976]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:00:20: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:00:27: [basechat.smx] "Portello [H]<108><[U:1:55437863]><>" triggered sm_say (text me 1000)
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 199 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] a<97><[U:1:75878823]><>" to 174 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Lion<92><[U:1:87541102]><>" to 109 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Tairuu -TPF-<107><[U:1:80406531]><>" to 109 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>" to 99 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 174 [-1]
+L 01/21/2016 - 20:01:30: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 109 [-1]
+L 01/21/2016 - 20:03:17: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 0
+L 01/21/2016 - 20:03:31: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 0
+L 01/21/2016 - 20:03:48: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 99999999
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] a<97><[U:1:75878823]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:03:51: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:04:00: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Studmuffin<112><[U:1:103659976]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:04:37: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:04:45: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1
+L 01/21/2016 - 20:04:57: [advcommands.smx] "Studmuffin<112><[U:1:103659976]><>" set godmode of player "Studmuffin<112><[U:1:103659976]><>" to 1
+L 01/21/2016 - 20:05:26: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 1
+L 01/21/2016 - 20:05:34: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:05:59: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:06:16: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:07:21: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 500
+L 01/21/2016 - 20:08:51: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set godmode of player "Studmuffin<113><[U:1:103659976]><>" to 1
+L 01/21/2016 - 20:09:03: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" renamed "Studmuffin<113><[U:1:103659976]><>" to "Mudstuffin")
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Mudstuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "_Level_Up_/\MarryChristmas<114><[U:1:165455285]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:09:47: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Mudstuffin<113><[U:1:103659976]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Qwut<96><[U:1:568878]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "_Level_Up_/\MarryChristmas<114><[U:1:165455285]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Lion<92><[U:1:87541102]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Tairuu -TPF-<107><[U:1:80406531]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] OliverWF Mushroom Senpai<102><[U:1:102474209]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 0
+L 01/21/2016 - 20:09:55: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 0
+L 01/21/2016 - 20:09:57: [mapchooser.smx] Voting for next map has started.
+L 01/21/2016 - 20:10:17: [mapchooser.smx] Voting for next map has finished. Nextmap: cp_steel.
+L 01/21/2016 - 20:11:38: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Mudstuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "_Level_Up_/\MarryChristmas<114><[U:1:165455285]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Lion<92><[U:1:87541102]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-<107><[U:1:80406531]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:11:45: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:13:21: [SM] Changed map to "cp_steel"
+L 01/21/2016 - 20:13:23: -------- Mapchange to cp_steel --------
+L 01/21/2016 - 20:13:28: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 20:19:37: [basecommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" changed map to "sd_doomsday"
+L 01/21/2016 - 20:19:40: [SM] Changed map to "sd_doomsday"
+L 01/21/2016 - 20:19:41: -------- Mapchange to sd_doomsday --------
+L 01/21/2016 - 20:19:46: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/21/2016 - 20:21:36: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" slayed "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:21:45: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:21:45: [funcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set a TimeBomb on "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:23:22: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:25:14: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 888888888
+L 01/21/2016 - 20:27:39: [tauntspeed.smx] Loaded Taunt Speed Config Successfully.
+L 01/21/2016 - 20:29:01: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:29:20: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:29:21: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:29:28: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:30:19: [AdvancedInfiniteAmmo.smx] "Studmuffin<113><[U:1:103659976]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 20:30:30: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1
+L 01/21/2016 - 20:31:19: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:31:35: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:32:43: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1
+L 01/21/2016 - 20:33:12: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999999
+L 01/21/2016 - 20:33:28: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to -1
+L 01/21/2016 - 20:33:44: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to -1
+L 01/21/2016 - 20:33:50: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 696969
+L 01/21/2016 - 20:35:16: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 9999
+L 01/21/2016 - 20:35:33: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 10000000
+L 01/21/2016 - 20:35:42: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 69696969
+L 01/21/2016 - 20:36:15: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:36:38: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 999999
+L 01/21/2016 - 20:36:58: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:37:21: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:38:56: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Studmuffin<113><[U:1:103659976]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Qwut<96><[U:1:568878]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Lion<116><[U:1:87541102]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 1
+L 01/21/2016 - 20:39:08: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 1
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 0
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Studmuffin<113><[U:1:103659976]><>" to 0
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Qwut<96><[U:1:568878]><>" to 0
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "[H] Lion<116><[U:1:87541102]><>" to 0
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 0
+L 01/21/2016 - 20:39:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 0
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 1000000
+L 01/21/2016 - 20:39:22: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:39:42: [basecommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" console command (cmdline "mp_teams_unbalance_limit 11")
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "Studmuffin<113><[U:1:103659976]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "[H] Qwut<96><[U:1:568878]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "[H] Lion<116><[U:1:87541102]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 2
+L 01/21/2016 - 20:40:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set team of player "Portello [H]<108><[U:1:55437863]><>" to 2
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<111><[U:1:163892789]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<116><[U:1:87541102]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>"
+L 01/21/2016 - 20:40:08: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "๖ۣۜEnoStyFire ☣<106><[U:1:49073532]><>" to 1000000
+L 01/21/2016 - 20:40:16: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:40:40: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 1
+L 01/21/2016 - 20:41:35: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999999
+L 01/21/2016 - 20:42:32: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:42:38: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:42:44: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to -1
+L 01/21/2016 - 20:42:48: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 99999999
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 100000
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 100000
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 100000
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 100000
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 100000
+L 01/21/2016 - 20:44:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 100000
+L 01/21/2016 - 20:45:21: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999
+L 01/21/2016 - 20:45:36: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" slayed "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 20:45:36: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" slayed "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 20:45:36: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" slayed "[H] Lion<116><[U:1:87541102]><>"
+L 01/21/2016 - 20:46:51: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 10000
+L 01/21/2016 - 20:46:51: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 10000
+L 01/21/2016 - 20:46:51: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 10000
+L 01/21/2016 - 20:47:03: [funcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set gravity on "Studmuffin<113><[U:1:103659976]><>" to 0.500000.
+L 01/21/2016 - 20:47:08: [funcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set gravity on "Studmuffin<113><[U:1:103659976]><>" to 0.100000.
+L 01/21/2016 - 20:48:02: [funcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set gravity on "Studmuffin<113><[U:1:103659976]><>" to 1.000000.
+L 01/21/2016 - 20:49:12: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 696969
+L 01/21/2016 - 20:49:21: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 69696969
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:49:24: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:49:25: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 2
+L 01/21/2016 - 20:49:25: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 2
+L 01/21/2016 - 20:49:25: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 2
+L 01/21/2016 - 20:49:38: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 10000
+L 01/21/2016 - 20:49:38: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 10000
+L 01/21/2016 - 20:49:38: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 10000
+L 01/21/2016 - 20:50:00: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 100000
+L 01/21/2016 - 20:50:26: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:50:30: [AdvancedInfiniteAmmo.smx] "Portello [H]<108><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 20:51:03: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:52:34: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:52:50: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 4716243
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:53:01: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:53:02: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 69696969
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:53:31: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:54:53: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set godmode of player "Portello [H]<108><[U:1:55437863]><>" to 1
+L 01/21/2016 - 20:55:15: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 69696969
+L 01/21/2016 - 20:55:50: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 99999
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:56:40: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:57:22: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 999999
+L 01/21/2016 - 20:57:29: [playercommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" slayed "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 20:58:05: [advcommands.smx] "Portello [H]<108><[U:1:55437863]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 2020020
+L 01/21/2016 - 20:58:27: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" buried player "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:59:12: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<111><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 20:59:59: [advcommands.smx] "L4Z0R_ [H]<111><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "L4Z0R_ [H]<122><[U:1:163892789]><>"
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Studmuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "[H] Lion<116><[U:1:87541102]><>"
+L 01/21/2016 - 21:01:41: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Disabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<122><[U:1:163892789]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Qwut<96><[U:1:568878]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[NLR] Princess LunaPie<118><[U:1:85068211]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<116><[U:1:87541102]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Snorkofob<121><[U:1:79861117]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Derr<123><[U:1:63740253]><>"
+L 01/21/2016 - 21:03:01: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<122><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[H] Qwut<96><[U:1:568878]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<118><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "Snorkofob<121><[U:1:79861117]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[H] Derr<123><[U:1:63740253]><>" to 1000000
+L 01/21/2016 - 21:03:13: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "Portello [H]<108><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<122><[U:1:163892789]><>"
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Studmuffin<113><[U:1:103659976]><>"
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[NLR] Princess LunaPie<125><[U:1:85068211]><>"
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Lion<116><[U:1:87541102]><>"
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Sir_Pootalot<124><[U:1:61511197]><>"
+L 01/21/2016 - 21:04:58: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<108><[U:1:55437863]><>"
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<122><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[NLR] Princess LunaPie<125><[U:1:85068211]><>" to 1000000
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[H] Derr<126><[U:1:63740253]><>" to 1000000
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 21:06:05: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "Sir_Pootalot<124><[U:1:61511197]><>" to 1000000
+L 01/21/2016 - 21:07:47: [advcommands.smx] "L4Z0R_ [H]<122><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<122><[U:1:163892789]><>" to 10000
+L 01/21/2016 - 21:08:55: [AdvancedInfiniteAmmo.smx] "Portello [H]<128><[U:1:55437863]><>" Enabled Advanced Infinite Ammo for  "Portello [H]<128><[U:1:55437863]><>"
+L 01/21/2016 - 21:10:06: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<129><[U:1:163892789]><>"
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<129><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "[H] Derr<127><[U:1:63740253]><>" to 1000000
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "Portello [H]<128><[U:1:55437863]><>" to 1000000
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 21:10:30: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "Sir_Pootalot<124><[U:1:61511197]><>" to 1000000
+L 01/21/2016 - 21:11:29: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" buried player "L4Z0R_ [H]<129><[U:1:163892789]><>"
+L 01/21/2016 - 21:12:18: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Satanic Hattu<130><[U:1:44072258]><>"
+L 01/21/2016 - 21:12:36: [advcommands.smx] "Studmuffin<113><[U:1:103659976]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 99999999
+L 01/21/2016 - 21:12:38: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<129><[U:1:163892789]><>" to 1000000
+L 01/21/2016 - 21:12:38: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "Studmuffin<113><[U:1:103659976]><>" to 1000000
+L 01/21/2016 - 21:12:38: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "[H] Satanic Hattu<130><[U:1:44072258]><>" to 1000000
+L 01/21/2016 - 21:12:38: [advcommands.smx] "L4Z0R_ [H]<129><[U:1:163892789]><>" set health of player "[H] Lion<116><[U:1:87541102]><>" to 1000000
+L 01/21/2016 - 21:15:50: Log file closed.

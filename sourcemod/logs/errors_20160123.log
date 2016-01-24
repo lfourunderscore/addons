@@ -1,0 +1,822 @@
+L 01/23/2016 - 00:00:48: SourceMod error session started
+L 01/23/2016 - 00:00:48: Info (map "ctf_2fort") (file "errors_20160123.log")
+L 01/23/2016 - 00:00:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:01:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:02:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:03:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:04:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:05:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:06:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:07:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:08:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:09:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:10:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:11:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:12:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:13:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:14:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:15:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:16:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:17:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:18:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:19:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:20:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:21:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:22:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:23:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:24:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:25:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:26:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:27:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:28:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:29:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:30:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:31:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:32:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:33:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:34:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:35:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:36:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:37:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:38:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:39:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:40:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:41:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:42:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:43:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:44:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:45:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:46:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:47:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:48:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:49:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:50:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:51:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:52:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:53:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:54:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:55:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:56:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:57:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:58:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 00:59:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:00:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:01:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:02:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:03:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:04:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:05:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:06:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:07:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:08:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:09:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:10:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:11:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:12:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:13:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:14:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:15:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:16:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:17:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:19:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:20:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:21:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:22:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:23:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:24:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:25:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:26:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:27:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:28:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:29:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:30:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:31:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:32:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:33:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:34:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:35:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:36:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:37:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:38:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:39:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:40:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:41:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:42:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:43:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:44:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:45:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:46:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:47:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:48:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:49:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:50:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:51:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:52:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:53:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:54:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:55:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:56:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:57:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:58:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 01:59:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:00:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:01:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:02:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:03:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:04:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:05:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:06:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:07:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:08:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:09:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:10:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:11:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:12:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:13:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:14:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:15:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:16:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:17:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:18:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:19:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:20:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:21:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:22:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:23:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:24:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:25:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:26:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:27:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:28:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:29:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:30:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:31:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:32:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:33:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:34:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:35:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:36:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:37:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:38:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:39:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:40:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:41:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:42:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:43:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:44:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:45:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:46:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:47:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:48:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:49:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:50:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:51:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:52:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:53:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:54:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:55:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:56:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:57:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:58:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 02:59:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:00:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:01:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:02:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:03:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:04:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:05:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:06:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:07:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:08:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:09:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:10:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:11:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:12:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:13:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:14:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:15:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:16:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:17:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:18:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:19:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:20:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:21:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:22:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:23:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:24:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:25:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:26:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:27:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:28:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:29:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:30:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:31:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:32:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:33:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:34:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:35:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:36:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:37:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:38:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:39:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:40:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:41:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:42:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:43:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:44:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:45:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:46:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:47:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:48:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:49:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:50:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:51:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:52:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:53:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:54:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:55:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:56:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:57:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:58:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 03:59:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:00:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:01:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:02:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:03:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:04:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:05:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:06:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:07:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:08:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:09:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:10:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:11:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:12:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:13:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:14:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:15:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:16:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:17:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:18:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:19:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:20:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:21:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:22:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:23:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:24:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:25:27: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:26:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:27:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:28:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:29:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:30:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:31:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:32:28: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:33:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:34:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:35:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:36:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:37:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:38:29: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:39:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:40:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:41:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:42:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:43:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:44:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:45:30: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:46:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:47:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:48:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:49:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:50:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:51:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:52:31: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:53:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:54:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:55:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:56:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:57:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:58:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 04:59:32: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:00:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:01:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:02:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:03:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:04:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:05:33: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:06:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:07:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:08:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:09:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:10:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:11:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:12:34: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:13:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:14:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:15:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:16:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:17:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:18:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:19:35: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:20:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:21:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:22:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:23:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:24:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:25:36: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:26:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:27:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:28:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:29:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:30:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:31:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:32:37: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:33:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:34:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:35:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:36:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:37:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:38:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:39:38: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:40:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:41:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:42:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:43:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:44:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:45:39: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:46:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:47:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:48:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:49:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:50:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:51:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:52:40: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:53:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:54:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:55:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:56:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:57:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:58:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 05:59:41: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:00:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:01:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:02:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:03:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:04:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:05:42: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:06:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:07:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:08:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:09:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:10:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:11:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:12:43: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:13:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:14:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:15:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:16:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:17:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:18:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:19:44: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:20:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:21:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:22:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:23:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:24:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:25:45: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:26:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:27:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:28:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:29:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:30:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:31:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:32:46: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:33:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:34:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:35:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:36:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:37:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:38:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:39:47: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:40:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:41:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:42:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:43:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:44:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:45:48: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:46:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:47:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:48:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:49:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:50:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:51:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:52:49: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:53:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:54:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:55:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:56:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:57:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:58:50: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 06:59:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:00:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:01:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:02:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:03:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:04:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:05:51: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:06:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:07:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:08:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:09:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:10:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:11:52: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:12:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:13:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:14:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:15:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:16:53: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:17:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:18:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:19:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:20:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:21:54: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:22:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:23:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:24:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:25:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:26:55: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:27:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:28:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:29:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:30:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:31:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:32:56: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:33:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:34:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:35:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:36:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:37:57: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:38:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:39:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:40:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:41:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:42:58: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:43:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:44:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:45:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:46:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:47:59: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:49:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:50:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:51:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:52:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:53:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:54:00: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:55:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:56:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:57:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:58:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 07:59:01: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:00:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:01:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:02:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:03:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:04:02: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:05:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:06:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:07:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:08:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:09:03: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:10:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:11:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:12:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:13:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:14:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:15:04: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:16:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:17:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:18:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:19:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:20:05: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:21:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:22:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:23:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:24:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:25:06: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:26:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:27:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:28:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:29:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:30:07: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:31:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:32:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:33:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:34:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:35:08: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:36:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:37:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:38:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:39:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:40:09: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:41:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:42:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:43:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:44:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:45:10: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:46:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:47:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:48:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:49:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:50:11: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:51:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:52:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:53:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:54:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:55:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:56:12: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:57:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:58:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 08:59:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:00:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:01:13: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:02:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:03:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:04:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:05:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:06:14: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:07:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:08:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:09:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:10:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:11:15: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:12:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:13:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:14:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:15:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:16:16: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:17:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:18:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:19:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:20:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:21:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:22:17: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:23:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:24:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:25:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:26:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:27:18: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:28:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:29:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:30:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:31:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:32:19: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:33:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:34:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:35:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:36:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:37:20: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:38:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:39:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:40:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:41:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:42:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:43:21: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:44:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:45:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:46:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:47:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:48:22: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:49:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:50:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:51:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:52:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:53:23: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:54:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:55:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:56:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:57:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:58:24: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 09:59:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:00:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:01:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:02:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:03:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:04:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/23/2016 - 10:07:26: Error log file session closed.
+L 01/23/2016 - 10:08:37: SourceMod error session started
+L 01/23/2016 - 10:08:37: Info (map "ctf_2fort") (file "errors_20160123.log")
+L 01/23/2016 - 10:08:37: [SM] Plugin encountered error 25: Call was aborted
+L 01/23/2016 - 10:08:37: [SM] Native "SetFailState" reported: no such table: tf2idb_item
+L 01/23/2016 - 10:08:37: [SM] Displaying call stack trace for plugin "tf2idb.smx":
+L 01/23/2016 - 10:08:37: [SM]   [0]  Line 66, tf2idb.sp::OnPluginStart()
+L 01/23/2016 - 10:08:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 10:08:37: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 10:08:37: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 10:09:53: Error log file session closed.
+L 01/23/2016 - 10:10:01: SourceMod error session started
+L 01/23/2016 - 10:10:01: Info (map "ctf_2fort") (file "errors_20160123.log")
+L 01/23/2016 - 10:10:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 10:10:01: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 10:10:01: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 10:36:52: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 10:36:52: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 10:36:52: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 10:36:52: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 10:36:52: [SM]   [1]  Line 315, PlayerTrails.sp::CookieMenu_PlayerTrails()
+L 01/23/2016 - 10:48:26: Error log file session closed.
+L 01/23/2016 - 10:48:26: SourceMod error session started
+L 01/23/2016 - 10:48:26: Info (map "cp_badlands") (file "errors_20160123.log")
+L 01/23/2016 - 10:48:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 10:48:26: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 10:48:26: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 11:49:53: Error log file session closed.
+L 01/23/2016 - 11:49:53: SourceMod error session started
+L 01/23/2016 - 11:49:53: Info (map "cp_foundry") (file "errors_20160123.log")
+L 01/23/2016 - 11:49:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 11:49:53: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 11:49:53: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 12:10:36: Error log file session closed.
+L 01/23/2016 - 12:10:36: SourceMod error session started
+L 01/23/2016 - 12:10:36: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 12:10:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 12:10:36: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 12:10:36: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 12:12:16: Error log file session closed.
+L 01/23/2016 - 12:12:25: SourceMod error session started
+L 01/23/2016 - 12:12:25: Info (map "ctf_2fort") (file "errors_20160123.log")
+L 01/23/2016 - 12:12:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 12:12:25: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 12:12:25: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 12:13:13: Error log file session closed.
+L 01/23/2016 - 12:13:13: SourceMod error session started
+L 01/23/2016 - 12:13:13: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 12:13:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 12:13:13: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 12:13:13: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 12:44:50: Error log file session closed.
+L 01/23/2016 - 12:44:50: SourceMod error session started
+L 01/23/2016 - 12:44:50: Info (map "surf_telstar_b4") (file "errors_20160123.log")
+L 01/23/2016 - 12:44:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 12:44:50: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 12:44:50: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 13:15:18: Error log file session closed.
+L 01/23/2016 - 13:15:18: SourceMod error session started
+L 01/23/2016 - 13:15:18: Info (map "surf_halloween_v2b") (file "errors_20160123.log")
+L 01/23/2016 - 13:15:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 13:15:18: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 13:15:18: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 13:18:01: Error log file session closed.
+L 01/23/2016 - 13:18:01: SourceMod error session started
+L 01/23/2016 - 13:18:01: Info (map "surf_reanimation_v1") (file "errors_20160123.log")
+L 01/23/2016 - 13:18:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 13:18:01: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 13:18:01: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 13:33:42: Error log file session closed.
+L 01/23/2016 - 13:33:42: SourceMod error session started
+L 01/23/2016 - 13:33:42: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 13:33:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 13:33:42: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 13:33:42: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 13:48:12: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 13:48:12: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 13:48:12: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 14:45:17: Error log file session closed.
+L 01/23/2016 - 14:45:28: SourceMod error session started
+L 01/23/2016 - 14:45:28: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 14:45:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 14:45:28: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 14:45:28: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 14:49:47: Error log file session closed.
+L 01/23/2016 - 14:59:51: SourceMod error session started
+L 01/23/2016 - 14:59:51: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 14:59:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 14:59:51: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 14:59:51: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 15:05:16: Error log file session closed.
+L 01/23/2016 - 15:05:16: SourceMod error session started
+L 01/23/2016 - 15:05:16: Info (map "surf_lullaby_vc") (file "errors_20160123.log")
+L 01/23/2016 - 15:05:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 15:05:16: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 15:05:16: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 15:14:31: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 15:14:31: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 15:14:31: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 15:14:31: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 15:14:31: [SM]   [1]  Line 315, PlayerTrails.sp::CookieMenu_PlayerTrails()
+L 01/23/2016 - 15:14:39: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 15:14:39: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 15:14:39: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 15:14:39: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 15:14:39: [SM]   [1]  Line 315, PlayerTrails.sp::CookieMenu_PlayerTrails()
+L 01/23/2016 - 15:17:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 15:17:53: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 15:17:53: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 15:40:31: Error log file session closed.
+L 01/23/2016 - 15:40:31: SourceMod error session started
+L 01/23/2016 - 15:40:31: Info (map "surf_rebound_v1") (file "errors_20160123.log")
+L 01/23/2016 - 15:40:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 15:40:31: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 15:40:31: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 16:16:01: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 16:16:01: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 16:16:01: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 16:16:01: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 16:16:01: [SM]   [1]  Line 315, PlayerTrails.sp::CookieMenu_PlayerTrails()
+L 01/23/2016 - 16:16:04: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 16:16:04: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 16:16:04: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 16:16:04: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 16:16:04: [SM]   [1]  Line 296, PlayerTrails.sp::Command_Trails()
+L 01/23/2016 - 16:37:56: Error log file session closed.
+L 01/23/2016 - 16:37:56: SourceMod error session started
+L 01/23/2016 - 16:37:56: Info (map "surf_congo_black") (file "errors_20160123.log")
+L 01/23/2016 - 16:37:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 16:37:56: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 16:37:56: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 16:41:16: Error log file session closed.
+L 01/23/2016 - 16:41:16: SourceMod error session started
+L 01/23/2016 - 16:41:16: Info (map "surf_torrent_v1b") (file "errors_20160123.log")
+L 01/23/2016 - 16:41:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 16:41:16: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 16:41:16: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 17:18:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 17:18:57: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 17:18:57: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 17:19:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 17:19:21: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 17:19:21: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 17:34:27: Error log file session closed.
+L 01/23/2016 - 17:34:27: SourceMod error session started
+L 01/23/2016 - 17:34:27: Info (map "surf_telstar_b4") (file "errors_20160123.log")
+L 01/23/2016 - 17:34:27: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 17:34:27: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 17:34:27: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 17:47:18: Error log file session closed.
+L 01/23/2016 - 17:47:18: SourceMod error session started
+L 01/23/2016 - 17:47:18: Info (map "surf_reanimation_v1") (file "errors_20160123.log")
+L 01/23/2016 - 17:47:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 17:47:18: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 17:47:18: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 18:12:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 18:12:02: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 18:12:02: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 18:49:20: Error log file session closed.
+L 01/23/2016 - 18:49:20: SourceMod error session started
+L 01/23/2016 - 18:49:20: Info (map "surf_rainbow_v1") (file "errors_20160123.log")
+L 01/23/2016 - 18:49:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 18:49:20: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 18:49:20: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 18:52:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 18:52:39: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 18:52:39: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 18:55:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 18:55:32: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 18:55:32: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 19:01:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 19:01:25: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 19:01:25: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 19:42:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 19:42:33: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 19:42:33: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 19:46:53: [SM] Native "GetUserFlagBits" reported: Client index 0 is invalid
+L 01/23/2016 - 19:46:53: [SM] Displaying call stack trace for plugin "sm_evilglow.smx":
+L 01/23/2016 - 19:46:53: [SM]   [0]  Line 357, /home/forums/content/files/2/4/5/7/3/40732.attach::Command_GlowMe()
+L 01/23/2016 - 19:46:53: [SM] Native "IsClientInGame" reported: Client index 0 is invalid
+L 01/23/2016 - 19:46:53: [SM] Displaying call stack trace for plugin "killstreak.smx":
+L 01/23/2016 - 19:46:53: [SM]   [0]  Line 76, /home/forums/content/files/4/3/7/6/141256.attach::CommandKillstreak()
+L 01/23/2016 - 20:07:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 20:07:05: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 20:07:05: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 20:12:17: [SM] Native "IsClientInGame" reported: Client index 0 is invalid
+L 01/23/2016 - 20:12:17: [SM] Displaying call stack trace for plugin "sm_eviltrail.smx":
+L 01/23/2016 - 20:12:17: [SM]   [0]  Line 334, /home/forums/content/files/2/4/5/7/3/33101.attach::Command_ParticleMe()
+L 01/23/2016 - 20:15:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 20:15:20: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 20:15:20: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 20:15:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 20:15:31: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 20:15:31: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 20:52:58: [SM] Plugin encountered error 21: Native is not bound
+L 01/23/2016 - 20:52:58: [SM] Native "ClientHasFeature" reported: 
+L 01/23/2016 - 20:52:58: [SM] Displaying call stack trace for plugin "PlayerTrails.smx":
+L 01/23/2016 - 20:52:58: [SM]   [0]  Line 330, PlayerTrails.sp::Menu_PlayerTrails()
+L 01/23/2016 - 20:52:58: [SM]   [1]  Line 296, PlayerTrails.sp::Command_Trails()
+L 01/23/2016 - 21:16:33: Error log file session closed.
+L 01/23/2016 - 21:16:33: SourceMod error session started
+L 01/23/2016 - 21:16:33: Info (map "surf_tensile") (file "errors_20160123.log")
+L 01/23/2016 - 21:16:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 21:16:33: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 21:16:33: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 21:24:50: Error log file session closed.
+L 01/23/2016 - 21:24:50: SourceMod error session started
+L 01/23/2016 - 21:24:50: Info (map "surf_lullaby_vc") (file "errors_20160123.log")
+L 01/23/2016 - 21:24:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 21:24:50: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 21:24:50: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/23/2016 - 23:06:45: Error log file session closed.
+L 01/23/2016 - 23:06:45: SourceMod error session started
+L 01/23/2016 - 23:06:45: Info (map "surf_horizon_v3") (file "errors_20160123.log")
+L 01/23/2016 - 23:06:45: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/23/2016 - 23:06:45: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/23/2016 - 23:06:45: [admin-flatfile.smx]  (line 63) Unknown group ""

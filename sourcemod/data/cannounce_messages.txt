@@ -1,0 +1,13 @@
+"CustomJoinMessages"
+{
+	"STEAM_0:1:81946394"
+	{
+		"playerwasnamed"		"L4Z0R_ [H]"
+		"message"		"{OLIVE} OWNER {GREEN} L4Z0R_ {DEFAULT}connected from {LIGHTGREEN}Sweden"
+	}
+	"STEAM_0:0:22036129"
+	{
+		"playerwasnamed"		"[H] Satanic Hattu"
+		"message"		"{OLIVE}Donator {GREEN}Satanic Hattu {DEFAULT}connected from {YELLOW}Finland"
+	}
+}

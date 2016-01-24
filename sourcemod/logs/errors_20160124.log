@@ -1,0 +1,162 @@
+L 01/24/2016 - 06:49:00: SourceMod error session started
+L 01/24/2016 - 06:49:00: Info (map "surf_torrent_v1b") (file "errors_20160124.log")
+L 01/24/2016 - 06:49:00: Error log file session closed.
+L 01/24/2016 - 06:49:00: SourceMod error session started
+L 01/24/2016 - 06:49:00: Info (map "surf_torrent_v1b") (file "errors_20160124.log")
+L 01/24/2016 - 06:49:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 06:49:00: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 06:49:00: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 08:34:48: [SM] Plugin encountered error 25: Call was aborted
+L 01/24/2016 - 08:34:48: [SM] Native "SetFailState" reported: Simple Chat Processor Unloaded.  Plugin Disabled.
+L 01/24/2016 - 08:34:48: [SM] Displaying call stack trace for plugin "simple-chatresponses.smx":
+L 01/24/2016 - 08:34:48: [SM]   [0]  Line 85, C:\compiler\simple-chatresponses.sp::OnLibraryRemoved()
+L 01/24/2016 - 08:34:48: Error log file session closed.
+L 01/24/2016 - 09:03:22: SourceMod error session started
+L 01/24/2016 - 09:03:22: Info (map "surf_rainbow_v1") (file "errors_20160124.log")
+L 01/24/2016 - 09:03:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 09:03:22: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 09:03:22: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 09:22:44: SourceMod error session started
+L 01/24/2016 - 09:22:44: Info (map "surf_rainbow_v1") (file "errors_20160124.log")
+L 01/24/2016 - 09:22:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 09:22:44: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 09:22:44: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 09:26:53: SourceMod error session started
+L 01/24/2016 - 09:26:53: Info (map "surf_rainbow_v1") (file "errors_20160124.log")
+L 01/24/2016 - 09:26:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 09:26:53: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 09:26:53: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 11:01:06: Error log file session closed.
+L 01/24/2016 - 11:01:06: SourceMod error session started
+L 01/24/2016 - 11:01:06: Info (map "surf_reanimation_v1") (file "errors_20160124.log")
+L 01/24/2016 - 11:01:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 11:01:06: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 11:01:06: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 11:43:30: Error log file session closed.
+L 01/24/2016 - 11:43:30: SourceMod error session started
+L 01/24/2016 - 11:43:30: Info (map "surf_tensile") (file "errors_20160124.log")
+L 01/24/2016 - 11:43:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 11:43:30: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 11:43:30: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 12:48:51: Error log file session closed.
+L 01/24/2016 - 12:48:51: SourceMod error session started
+L 01/24/2016 - 12:48:51: Info (map "surf_horizon_v3") (file "errors_20160124.log")
+L 01/24/2016 - 12:48:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 12:48:51: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 12:48:51: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 13:18:24: Error log file session closed.
+L 01/24/2016 - 13:18:24: SourceMod error session started
+L 01/24/2016 - 13:18:24: Info (map "surf_lullaby_vc") (file "errors_20160124.log")
+L 01/24/2016 - 13:18:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 13:18:24: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 13:18:24: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 13:51:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 13:51:10: [admin-flatfile.smx]  (line 9) Invalid flag detected: 0
+L 01/24/2016 - 13:51:10: [admin-flatfile.smx]  (line 63) Unknown group ""
+L 01/24/2016 - 13:57:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 13:57:49: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 13:57:49: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 14:57:14: Error log file session closed.
+L 01/24/2016 - 14:57:14: SourceMod error session started
+L 01/24/2016 - 14:57:14: Info (map "surf_telstar_b4") (file "errors_20160124.log")
+L 01/24/2016 - 14:57:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 14:57:14: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 14:57:14: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 16:43:22: Error log file session closed.
+L 01/24/2016 - 16:43:22: SourceMod error session started
+L 01/24/2016 - 16:43:22: Info (map "surf_lament_n2p") (file "errors_20160124.log")
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 16:43:22: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 17:02:15: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 17:02:28: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 17:14:39: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:20:15: Error log file session closed.
+L 01/24/2016 - 17:20:15: SourceMod error session started
+L 01/24/2016 - 17:20:15: Info (map "surf_rebound_v1") (file "errors_20160124.log")
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 17:20:15: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 80) Unknown group "VIP"
+L 01/24/2016 - 17:37:22: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:41:44: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:42:22: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 17:53:09: Error log file session closed.
+L 01/24/2016 - 17:53:09: SourceMod error session started
+L 01/24/2016 - 17:53:09: Info (map "surf_horizon_v3") (file "errors_20160124.log")
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 17:53:09: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 19:22:49: Error log file session closed.
+L 01/24/2016 - 19:22:49: SourceMod error session started
+L 01/24/2016 - 19:22:49: Info (map "surf_rainbow_v1") (file "errors_20160124.log")
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 12) Section declared with unknown tokens
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 64) Unknown group ""
+L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 88) Unknown group "VIP"

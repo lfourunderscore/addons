@@ -1,0 +1,13 @@
+"CountryShow"
+{
+	"messages"
+	{
+		"playerjoin"		"{PLAYERNAME} {DEFAULT}connected from {GREEN}{PLAYERCOUNTRY} {DEFAULT}"
+		"playerdisc"		"{GREEN}{PLAYERNAME} {DEFAULT}disconnected. {GREEN}({DISC_REASON}){DEFAULT}"
+	}
+	"messages_admin"
+	{
+		"playerjoin"		"{GREEN}{PLAYERNAME} {DEFAULT}connected from {GREEN}{PLAYERCOUNTRY} {DEFAULT}"
+		"playerdisc"		"{GREEN}{PLAYERNAME} {DEFAULT}disconnected. {GREEN}({DISC_REASON}){DEFAULT}"
+	}
+}
