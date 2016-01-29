@@ -8,7 +8,7 @@
 	"2"
 	{
 		"type"		"S"
-		"text"		"{RED}Is someone breaking rules? Type {GREEN}!admins{RED} in chat to see online admins!"
+		"text"		"{RED}Check out our site!{GREEN} divinity-community.com"
 	}
 	"3"
 	{
