@@ -160,3 +160,5 @@ L 01/24/2016 - 19:22:49: [admin-flatfile.smx] Error(s) detected parsing addons/s
 L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 10) Invalid flag detected: 0
 L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 64) Unknown group ""
 L 01/24/2016 - 19:22:49: [admin-flatfile.smx]  (line 88) Unknown group "VIP"
+L 01/24/2016 - 20:25:25: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data
+L 01/24/2016 - 20:27:26: [backpack-tf.smx] backpack.tf API failed: Unable to connect to server or server returned no data

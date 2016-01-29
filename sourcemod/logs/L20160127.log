@@ -1,0 +1,341 @@
+L 01/27/2016 - 06:26:22: SourceMod log file session started (file "L20160127.log") (Version "1.7.3-dev+5290")
+L 01/27/2016 - 06:26:22: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 07:26:25: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 08:26:28: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 09:26:30: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 10:26:32: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 11:24:52: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:24:55: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:24:56: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:24:58: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:00: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:01: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:02: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:04: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:05: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:07: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:09: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:25: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:27: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:25:30: [funcommands.smx] "Portello [H]<118><[U:1:55437863]><>" toggled noclip on "Portello [H]<118><[U:1:55437863]><>"
+L 01/27/2016 - 11:26:34: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 12:26:36: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 13:26:38: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 13:48:07: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" changed map to "surf_torrent"
+L 01/27/2016 - 13:48:11: [SM] Changed map to "surf_torrent"
+L 01/27/2016 - 13:48:12: -------- Mapchange to surf_torrent_v1b --------
+L 01/27/2016 - 13:48:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 13:48:17: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 13:59:05: [funcommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<123><[U:1:163892789]><>"
+L 01/27/2016 - 13:59:43: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" changed map to "surf_lame"
+L 01/27/2016 - 13:59:46: [SM] Changed map to "surf_lame"
+L 01/27/2016 - 13:59:47: -------- Mapchange to surf_lament_n2p --------
+L 01/27/2016 - 13:59:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 13:59:52: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 14:03:52: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "fc_bhop_lazymode_enable 1")
+L 01/27/2016 - 14:03:54: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "fc_bhop_lazymode_enabled 1")
+L 01/27/2016 - 14:04:03: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "bhop_lazymode_enabled 1")
+L 01/27/2016 - 14:04:06: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "bhop_lazymode_enable 1")
+L 01/27/2016 - 14:04:15: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "fc_bhop_lazymode 1")
+L 01/27/2016 - 14:05:02: [basecommands.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" console command (cmdline "fc_airstrafe_mult")
+L 01/27/2016 - 14:26:53: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 14:30:59: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<123><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<123><[U:1:163892789]><>"
+L 01/27/2016 - 14:35:32: [AdvancedInfiniteAmmo.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:36:56: [advcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" set health of player "L4Z0R_ [H]<127><[U:1:163892789]><>" to 10000000
+L 01/27/2016 - 14:38:21: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:39:22: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:39:29: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:39:55: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:41:44: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 14:42:01: [funcommands.smx] "L4Z0R_ [H]<127><[U:1:163892789]><>" toggled noclip on "L4Z0R_ [H]<127><[U:1:163892789]><>"
+L 01/27/2016 - 15:17:43: [mapchooser.smx] Voting for next map has started.
+L 01/27/2016 - 15:26:55: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 15:39:09: [basecommands.smx] "FUNNY AND ORIGINAL<133><[U:1:163892789]><>" changed map to "surf_tor"
+L 01/27/2016 - 15:39:12: [SM] Changed map to "surf_tor"
+L 01/27/2016 - 15:39:13: -------- Mapchange to surf_torrent_v1b --------
+L 01/27/2016 - 15:39:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 15:39:18: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 15:43:57: [basecommands.smx] "FUNNY AND ORIGINAL<133><[U:1:163892789]><>" changed map to "surf_ten"
+L 01/27/2016 - 15:44:00: [SM] Changed map to "surf_ten"
+L 01/27/2016 - 15:44:01: -------- Mapchange to surf_tensile --------
+L 01/27/2016 - 15:44:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 15:44:06: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 15:57:47: [basecommands.smx] "FUNNY AND ORIGINAL<133><[U:1:163892789]><>" changed map to "surf_lull"
+L 01/27/2016 - 15:57:50: [SM] Changed map to "surf_lull"
+L 01/27/2016 - 15:57:51: -------- Mapchange to surf_lullaby_vc --------
+L 01/27/2016 - 15:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 15:57:55: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 16:01:04: [basecommands.smx] "FUNNY AND ORIGINAL<133><[U:1:163892789]><>" changed map to "surf_pre"
+L 01/27/2016 - 16:01:07: [SM] Changed map to "surf_pre"
+L 01/27/2016 - 16:01:08: -------- Mapchange to surf_prelude_b3p --------
+L 01/27/2016 - 16:01:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 16:01:13: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 16:18:32: [mapchooser.smx] Starting map vote because outside request
+L 01/27/2016 - 16:18:32: [mapchooser.smx] Voting for next map has started.
+L 01/27/2016 - 16:18:37: [mapchooser.smx] Voting for next map has finished. Nextmap: surf_rebound_v1.
+L 01/27/2016 - 16:18:39: [SM] Changed map to "surf_rebound_v1"
+L 01/27/2016 - 16:18:40: -------- Mapchange to surf_rebound_v1 --------
+L 01/27/2016 - 16:18:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 16:18:44: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 16:27:26: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 16:27:42: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 0.500000.
+L 01/27/2016 - 16:29:14: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 0.100000.
+L 01/27/2016 - 16:29:32: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 1.000000.
+L 01/27/2016 - 16:30:33: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 0.500000.
+L 01/27/2016 - 16:35:21: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 2.000000.
+L 01/27/2016 - 16:37:29: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 0.500000.
+L 01/27/2016 - 16:46:31: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 4.000000.
+L 01/27/2016 - 16:46:35: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Portello [H]<137><[U:1:55437863]><>" to 4.000000.
+L 01/27/2016 - 16:47:42: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 0.500000.
+L 01/27/2016 - 16:48:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:48:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:48:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:48:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:48:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:15: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:15: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:15: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:15: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:17: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:17: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:17: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:17: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:43: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:44: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:51: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:49:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:50:04: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:50:04: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:50:04: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:50:04: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:50:12: [funcommands.smx] "Daddy Know-It-All<135><[U:1:132005047]><>" set gravity on "Daddy Know-It-All<135><[U:1:132005047]><>" to 1.000000.
+L 01/27/2016 - 16:50:56: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Daddy Know-It-All<135><[U:1:132005047]><>"
+L 01/27/2016 - 16:50:56: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:50:56: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:50:56: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say I love L4Z0R_" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:51:21: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "disconnect" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:51:21: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "disconnect" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:51:21: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "disconnect" on "mateusz123<141><[U:1:318561662]><>"
+L 01/27/2016 - 16:51:34: [mapchooser.smx] Starting map vote because outside request
+L 01/27/2016 - 16:51:34: [mapchooser.smx] Voting for next map has started.
+L 01/27/2016 - 16:51:36: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "unbindall" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:51:36: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "unbindall" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:51:46: [mapchooser.smx] Voting for next map has finished. Nextmap: surf_rainbow_v1.
+L 01/27/2016 - 16:51:49: [SM] Changed map to "surf_rainbow_v1"
+L 01/27/2016 - 16:51:49: -------- Mapchange to surf_rainbow_v1 --------
+L 01/27/2016 - 16:51:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 16:51:54: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 16:52:21: [advcommands.smx] "Portello [H]<137><[U:1:55437863]><>" gived item kidney to player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:52:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say Fite me irl" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:52:27: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say Fite me irl" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:52:42: [advcommands.smx] "Portello [H]<137><[U:1:55437863]><>" gived item dope to player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:52:42: [advcommands.smx] "Portello [H]<137><[U:1:55437863]><>" gived item dope to player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say FUNNY AND ORIGINAL" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say FUNNY AND ORIGINAL" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say FUNNY AND ORIGINAL" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:19: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:19: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:19: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:53:45: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:47: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:47: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:47: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:53:47: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:53:48: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:53:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:53:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:53:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:53:52: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:55:05: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:55:05: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:55:05: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:55:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:55:33: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:55:55: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" set team of player "Portello [H]<137><[U:1:55437863]><>" to 2
+L 01/27/2016 - 16:55:58: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" set team of player "Portello [H]<137><[U:1:55437863]><>" to 1
+L 01/27/2016 - 16:56:02: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:56:02: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:56:02: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:56:02: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" fake-executed command "say WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW" on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:56:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:56:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:56:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:56:06: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:56:23: [advcommands.smx] "Portello [H]<137><[U:1:55437863]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:56:41: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:56:41: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:56:41: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:56:41: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:57:19: [funcommands.smx] "Portello [H]<137><[U:1:55437863]><>" toggled noclip on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:57:28: [funcommands.smx] "Portello [H]<137><[U:1:55437863]><>" toggled noclip on "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:57:28: [funcommands.smx] "Portello [H]<137><[U:1:55437863]><>" toggled noclip on "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:57:28: [funcommands.smx] "Portello [H]<137><[U:1:55437863]><>" toggled noclip on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:57:54: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:57:54: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:57:54: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:57:54: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 16:58:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "test subject<142><[U:1:75878823]><>"
+L 01/27/2016 - 16:58:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "Portello [H]<137><[U:1:55437863]><>"
+L 01/27/2016 - 16:58:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "FUNNY AND ORIGINAL<138><[U:1:163892789]><>"
+L 01/27/2016 - 16:58:26: [advcommands.smx] "FUNNY AND ORIGINAL<138><[U:1:163892789]><>" disarmed player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 17:16:48: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:17:25: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 17:19:10: [AdvancedInfiniteAmmo.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:19:39: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set godmode of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 1
+L 01/27/2016 - 17:20:15: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 17:21:14: [AdvancedInfiniteAmmo.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" Enabled Advanced Infinite Ammo for  "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>"
+L 01/27/2016 - 17:24:27: [advcommands.smx] "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" set health of player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" to 100000
+L 01/27/2016 - 17:25:43: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:25:53: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:25:57: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set health of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 1000000
+L 01/27/2016 - 17:26:00: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set godmode of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 0
+L 01/27/2016 - 17:27:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:27:34: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 17:28:51: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:28:52: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:28:52: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:28:53: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:28:54: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:28:55: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:32:41: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set team of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 1
+L 01/27/2016 - 17:32:58: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set team of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 2
+L 01/27/2016 - 17:33:24: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set team of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 3
+L 01/27/2016 - 17:33:27: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set team of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 2
+L 01/27/2016 - 17:34:03: [advcommands.smx] "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" set health of player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" to 10000000
+L 01/27/2016 - 17:36:27: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:36:29: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:41:21: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 17:49:35: [mapchooser.smx] Voting for next map has started.
+L 01/27/2016 - 18:03:42: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:03:44: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:03:45: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:03:46: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:03:47: [funcommands.smx] "Portello [H]<146><[U:1:55437863]><>" toggled noclip on "Portello [H]<146><[U:1:55437863]><>"
+L 01/27/2016 - 18:03:51: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set health of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 1000000
+L 01/27/2016 - 18:04:10: [advcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" set godmode of player "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" to 1
+L 01/27/2016 - 18:04:11: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:13: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:15: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:16: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:17: [advcommands.smx] "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" set health of player "[H] Tairuu -TPF-:3<140><[U:1:80406531]><>" to 1000000
+L 01/27/2016 - 18:04:18: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:37: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:37: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:37: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:39: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:04:59: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:00: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:01: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:02: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:02: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:02: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:02: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:03: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:03: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:03: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:03: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:03: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:04: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:04: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:04: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:05:04: [funcommands.smx] "FUNNY AND ORIGINAL<144><[U:1:163892789]><>" toggled noclip on "FUNNY AND ORIGINAL<144><[U:1:163892789]><>"
+L 01/27/2016 - 18:27:36: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 19:27:39: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 20:11:28: [rockthevote.smx] RTV changing map manually
+L 01/27/2016 - 20:11:28: [SM] Changed map to "surf_lament_n2p"
+L 01/27/2016 - 20:11:29: -------- Mapchange to surf_lament_n2p --------
+L 01/27/2016 - 20:11:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1500")
+L 01/27/2016 - 20:11:33: [buildinghats.smx] [Building Hats] Executing configuration file addons/sourcemod/configs/buildinghats.cfg
+L 01/27/2016 - 20:27:47: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 21:08:32: [mapchooser.smx] Voting for next map has started.
+L 01/27/2016 - 21:27:49: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 22:27:54: [backpack-tf.smx] backpack.tf price list successfully downloaded!
+L 01/27/2016 - 23:27:57: [backpack-tf.smx] backpack.tf price list successfully downloaded!

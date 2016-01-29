@@ -1,8 +1,8 @@
 "Response"
 {
 	"success"		"1"
-	"current_time"		"1453659864"
-	"refined_usd_value"		"0.125000"
+	"current_time"		"1454057206"
+	"refined_usd_value"		"0.120000"
 	"prices"
 	{
 		"-3"
@@ -84,6 +84,12 @@
 				"7"		"16005"
 				"8"		"16017"
 				"9"		"16028"
+				"10"		"15081"
+				"11"		"15104"
+				"12"		"15105"
+				"13"		"15129"
+				"14"		"15130"
+				"15"		"15150"
 			}
 			"item_info"
 			{
@@ -95,9 +101,8 @@
 				{
 					"currency"		"metal"
 					"value"		"4.330000"
-					"last_update"		"1447537392"
-					"difference"		"-0.335000"
-					"value_high"		"4.660000"
+					"last_update"		"1453944341"
+					"difference"		"-0.165000"
 				}
 			}
 			"6"
@@ -493,9 +498,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"9"
-					"last_update"		"1447102819"
-					"difference"		"-0.330000"
+					"value"		"11"
+					"last_update"		"1453831345"
+					"difference"		"2"
 				}
 			}
 			"14"
@@ -551,9 +556,8 @@
 				{
 					"currency"		"metal"
 					"value"		"2"
-					"last_update"		"1451758305"
+					"last_update"		"1453760709"
 					"difference"		"-0.165000"
-					"value_high"		"2.330000"
 				}
 			}
 			"14"
@@ -1460,8 +1464,8 @@
 				{
 					"currency"		"keys"
 					"value"		"44"
-					"last_update"		"1425989022"
-					"difference"		"370.260010"
+					"last_update"		"1453912074"
+					"difference"		"0"
 				}
 				"38"
 				{
@@ -1844,9 +1848,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1"
-					"last_update"		"1441513574"
-					"difference"		"0.230000"
+					"value"		"1.110000"
+					"last_update"		"1453696810"
+					"difference"		"0.110000"
 				}
 			}
 		}
@@ -2685,9 +2689,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.770000"
-					"last_update"		"1437105153"
-					"difference"		"-0.230000"
+					"value"		"6"
+					"last_update"		"1453741905"
+					"difference"		"0.230000"
 				}
 			}
 			"5"
@@ -2941,9 +2945,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2.330000"
-					"last_update"		"1437889916"
-					"difference"		"0.330000"
+					"value"		"2"
+					"last_update"		"1454009219"
+					"difference"		"-0.330000"
 				}
 			}
 		}
@@ -3051,10 +3055,10 @@
 				"30"
 				{
 					"currency"		"keys"
-					"value"		"48"
-					"last_update"		"1440171262"
-					"difference"		"-32"
-					"value_high"		"52"
+					"value"		"50"
+					"last_update"		"1454011330"
+					"difference"		"92.474998"
+					"value_high"		"60"
 				}
 				"31"
 				{
@@ -3677,9 +3681,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"10"
-					"last_update"		"1453070070"
-					"difference"		"0.670000"
+					"value"		"11.660000"
+					"last_update"		"1454007140"
+					"difference"		"2.330000"
+					"value_high"		"13"
 				}
 			}
 			"14"
@@ -3765,8 +3770,9 @@
 				{
 					"currency"		"metal"
 					"value"		"0.050000"
-					"last_update"		"1438909858"
-					"difference"		"-0.030000"
+					"last_update"		"1454017572"
+					"difference"		"0.030000"
+					"value_high"		"0.110000"
 				}
 			}
 			"11"
@@ -3791,9 +3797,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7"
-					"last_update"		"1447856211"
-					"difference"		"-0.660000"
+					"value"		"8"
+					"last_update"		"1453742454"
+					"difference"		"0.340000"
 				}
 			}
 			"14"
@@ -4410,10 +4416,10 @@
 				"33"
 				{
 					"currency"		"keys"
-					"value"		"15"
-					"last_update"		"1443756957"
-					"difference"		"-8.027500"
-					"value_high"		"17"
+					"value"		"14"
+					"last_update"		"1453753529"
+					"difference"		"-17.940001"
+					"value_high"		"16"
 				}
 				"34"
 				{
@@ -5129,9 +5135,10 @@
 				"10"
 				{
 					"currency"		"keys"
-					"value"		"50"
-					"last_update"		"1440081744"
-					"difference"		"-215.880005"
+					"value"		"40"
+					"last_update"		"1453761279"
+					"difference"		"-134.550003"
+					"value_high"		"45"
 				}
 				"11"
 				{
@@ -5591,9 +5598,10 @@
 				"14"
 				{
 					"currency"		"keys"
-					"value"		"150"
-					"last_update"		"1439139198"
-					"difference"		"448"
+					"value"		"142"
+					"last_update"		"1454002291"
+					"difference"		"-71.760002"
+					"value_high"		"150"
 				}
 				"15"
 				{
@@ -6300,10 +6308,9 @@
 				"59"
 				{
 					"currency"		"keys"
-					"value"		"19"
-					"last_update"		"1433639302"
-					"difference"		"-95.275002"
-					"value_high"		"21"
+					"value"		"20"
+					"last_update"		"1453848404"
+					"difference"		"0"
 				}
 				"6"
 				{
@@ -7232,10 +7239,9 @@
 				"60"
 				{
 					"currency"		"keys"
-					"value"		"17"
-					"last_update"		"1437585539"
-					"difference"		"-86.735001"
-					"value_high"		"18"
+					"value"		"19"
+					"last_update"		"1453920926"
+					"difference"		"26.910000"
 				}
 				"61"
 				{
@@ -7345,8 +7351,8 @@
 				{
 					"currency"		"keys"
 					"value"		"100"
-					"last_update"		"1435850788"
-					"difference"		"304.880005"
+					"last_update"		"1453910686"
+					"difference"		"0"
 				}
 				"89"
 				{
@@ -11150,9 +11156,9 @@
 				{
 					"currency"		"metal"
 					"value"		"7"
-					"last_update"		"1453511644"
-					"difference"		"1.165000"
-					"value_high"		"7.330000"
+					"last_update"		"1453769863"
+					"difference"		"0.335000"
+					"value_high"		"8"
 				}
 			}
 			"11"
@@ -13975,10 +13981,9 @@
 				"70"
 				{
 					"currency"		"keys"
-					"value"		"32"
-					"last_update"		"1437487418"
-					"difference"		"-157.699997"
-					"value_high"		"38"
+					"value"		"38"
+					"last_update"		"1454013154"
+					"difference"		"55.485001"
 				}
 				"71"
 				{
@@ -14160,8 +14165,9 @@
 				{
 					"currency"		"keys"
 					"value"		"40"
-					"last_update"		"1453395949"
-					"difference"		"78.727501"
+					"last_update"		"1453755886"
+					"difference"		"44.849998"
+					"value_high"		"45"
 				}
 				"17"
 				{
@@ -14724,11 +14730,10 @@
 				}
 				"45"
 				{
-					"currency"		"usd"
-					"value"		"119.419998"
-					"value_high"		"138.080002"
-					"last_update"		"1357769857"
-					"difference"		"6.962000"
+					"currency"		"keys"
+					"value"		"70"
+					"last_update"		"1453886205"
+					"difference"		"225.800003"
 				}
 				"46"
 				{
@@ -17447,10 +17452,9 @@
 				"3003"
 				{
 					"currency"		"keys"
-					"value"		"140"
-					"last_update"		"1449861833"
-					"difference"		"-28.665001"
-					"value_high"		"145"
+					"value"		"160"
+					"last_update"		"1454007110"
+					"difference"		"313.950012"
 				}
 				"3004"
 				{
@@ -17716,10 +17720,10 @@
 				"14"
 				{
 					"currency"		"keys"
-					"value"		"65"
-					"last_update"		"1441757624"
-					"difference"		"0"
-					"value_high"		"82"
+					"value"		"68"
+					"last_update"		"1453912207"
+					"difference"		"107.639999"
+					"value_high"		"91"
 				}
 				"15"
 				{
@@ -19764,10 +19768,9 @@
 				"62"
 				{
 					"currency"		"keys"
-					"value"		"32"
-					"last_update"		"1401750514"
-					"difference"		"-49.236252"
-					"value_high"		"45"
+					"value"		"37"
+					"last_update"		"1454036024"
+					"difference"		"-27.742500"
 				}
 				"64"
 				{
@@ -19956,9 +19959,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1445707384"
-					"difference"		"0.330000"
+					"value"		"5"
+					"last_update"		"1453741862"
+					"difference"		"0.670000"
 				}
 			}
 			"5"
@@ -20081,8 +20084,8 @@
 				{
 					"currency"		"keys"
 					"value"		"11"
-					"last_update"		"1445793250"
-					"difference"		"-24.165001"
+					"last_update"		"1453874485"
+					"difference"		"0"
 				}
 				"35"
 				{
@@ -21421,11 +21424,10 @@
 				}
 				"43"
 				{
-					"currency"		"usd"
-					"value"		"132.970001"
-					"value_high"		"139.619995"
-					"last_update"		"1381810969"
-					"difference"		"-104.038002"
+					"currency"		"keys"
+					"value"		"60"
+					"last_update"		"1454008614"
+					"difference"		"-26.091667"
 				}
 				"44"
 				{
@@ -22206,8 +22208,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.440000"
-					"last_update"		"1450584970"
+					"value"		"0.330000"
+					"last_update"		"1454027799"
 					"difference"		"-0.110000"
 				}
 			}
@@ -22332,9 +22334,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.440000"
-					"last_update"		"1447264495"
-					"difference"		"0.055000"
+					"value"		"0.330000"
+					"last_update"		"1454003815"
+					"difference"		"-0.110000"
 				}
 			}
 			"6"
@@ -22663,6 +22665,14 @@
 			"alt_defindex"
 			{
 				"0"		"19"
+				"1"		"15077"
+				"2"		"15079"
+				"3"		"15091"
+				"4"		"15092"
+				"5"		"15116"
+				"6"		"15117"
+				"7"		"15142"
+				"8"		"15158"
 			}
 			"item_info"
 			{
@@ -22684,8 +22694,9 @@
 				{
 					"currency"		"metal"
 					"value"		"0.660000"
-					"last_update"		"1428251963"
-					"difference"		"-0.110000"
+					"last_update"		"1453762086"
+					"difference"		"0.170000"
+					"value_high"		"1"
 				}
 			}
 			"0"
@@ -23198,10 +23209,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"15"
-					"last_update"		"1453116415"
-					"difference"		"-0.835000"
-					"value_high"		"15.330000"
+					"value"		"13.660000"
+					"last_update"		"1453770136"
+					"difference"		"-1.335000"
+					"value_high"		"14"
 				}
 			}
 			"14"
@@ -24243,9 +24254,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.110000"
-					"last_update"		"1452216371"
-					"difference"		"0.030000"
+					"value"		"0.050000"
+					"last_update"		"1453860236"
+					"difference"		"-0.030000"
+					"value_high"		"0.110000"
 				}
 			}
 		}
@@ -24679,9 +24691,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.770000"
-					"last_update"		"1453576149"
-					"difference"		"-0.230000"
+					"value"		"1.660000"
+					"last_update"		"1453940153"
+					"difference"		"-0.110000"
 				}
 			}
 			"14"
@@ -24706,9 +24718,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"3.330000"
-					"last_update"		"1439750489"
-					"difference"		"0.330000"
+					"value"		"5"
+					"last_update"		"1453831226"
+					"difference"		"0.670000"
+					"value_high"		"5.660000"
 				}
 			}
 			"14"
@@ -26412,10 +26425,9 @@
 				"69"
 				{
 					"currency"		"keys"
-					"value"		"23"
-					"last_update"		"1419147504"
-					"difference"		"362.250000"
-					"value_high"		"29"
+					"value"		"26"
+					"last_update"		"1454015693"
+					"difference"		"0"
 				}
 				"78"
 				{
@@ -26992,9 +27004,10 @@
 				"14"
 				{
 					"currency"		"keys"
-					"value"		"160"
-					"last_update"		"1445030954"
-					"difference"		"-176.604996"
+					"value"		"120"
+					"last_update"		"1453761117"
+					"difference"		"-448.500000"
+					"value_high"		"150"
 				}
 				"15"
 				{
@@ -28101,20 +28114,10 @@
 				}
 				"74"
 				{
-					"item_name"		"Chieftain's Challenge"
-					"quality"		"5"
-					"craftable"		"Craftable"
-					"tradable"		"Tradable"
-					"priceindex"		"74"
-					"DefIndex"
-					{
-						"0"		"250"
-					}
-					"value"		"136"
 					"currency"		"keys"
-					"value_high"		"145"
-					"last_update"		"1400996250"
-					"difference"		"1129.713745"
+					"value"		"150"
+					"last_update"		"1454008914"
+					"difference"		"175.702499"
 				}
 				"76"
 				{
@@ -28370,10 +28373,9 @@
 				"33"
 				{
 					"currency"		"keys"
-					"value"		"13"
-					"last_update"		"1434897056"
-					"difference"		"-28.582500"
-					"value_high"		"16"
+					"value"		"15"
+					"last_update"		"1454006891"
+					"difference"		"8.970000"
 				}
 				"34"
 				{
@@ -29124,10 +29126,10 @@
 				"90"
 				{
 					"currency"		"keys"
-					"value"		"73"
-					"last_update"		"1443750607"
-					"difference"		"1228.207520"
-					"value_high"		"80"
+					"value"		"67"
+					"last_update"		"1453755477"
+					"difference"		"-143.520004"
+					"value_high"		"70"
 				}
 				"83"
 				{
@@ -29350,8 +29352,8 @@
 				{
 					"currency"		"keys"
 					"value"		"40"
-					"last_update"		"1430516823"
-					"difference"		"-117"
+					"last_update"		"1453746777"
+					"difference"		"0"
 				}
 				"45"
 				{
@@ -30911,9 +30913,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"7"
-					"last_update"		"1439938342"
-					"difference"		"4"
+					"value"		"9"
+					"last_update"		"1453833096"
+					"difference"		"35.880001"
 				}
 			}
 			"6"
@@ -31258,10 +31260,11 @@
 			{
 				"0"
 				{
-					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1409580665"
-					"difference"		"4.055000"
+					"currency"		"metal"
+					"value"		"16"
+					"last_update"		"1454032351"
+					"difference"		"-1.995000"
+					"value_high"		"17"
 				}
 			}
 		}
@@ -31302,10 +31305,11 @@
 			{
 				"0"
 				{
-					"currency"		"keys"
-					"difference"		"5.110000"
-					"last_update"		"1395254167"
-					"value"		"1"
+					"currency"		"metal"
+					"value"		"9.330000"
+					"last_update"		"1453860319"
+					"difference"		"-8.275000"
+					"value_high"		"10"
 				}
 			}
 			"600"
@@ -31393,10 +31397,10 @@
 			{
 				"0"
 				{
-					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1403677524"
-					"difference"		"3"
+					"currency"		"metal"
+					"value"		"17"
+					"last_update"		"1453860340"
+					"difference"		"-0.940000"
 				}
 			}
 		}
@@ -32089,10 +32093,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"157.250000"
-					"last_update"		"1434897535"
-					"difference"		"257.242493"
-					"value_high"		"175.750000"
+					"value"		"200"
+					"last_update"		"1453905596"
+					"difference"		"600.989990"
 				}
 			}
 			"6"
@@ -32727,8 +32730,9 @@
 				{
 					"currency"		"metal"
 					"value"		"9"
-					"last_update"		"1452546008"
-					"difference"		"2"
+					"last_update"		"1453860362"
+					"difference"		"1"
+					"value_high"		"11"
 				}
 			}
 			"14"
@@ -32959,9 +32963,9 @@
 				"58"
 				{
 					"currency"		"keys"
-					"value"		"19"
-					"last_update"		"1439620648"
-					"difference"		"-48"
+					"value"		"20"
+					"last_update"		"1454011724"
+					"difference"		"18.495001"
 				}
 				"59"
 				{
@@ -33224,8 +33228,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1450756682"
+					"value"		"4"
+					"last_update"		"1454031624"
 					"difference"		"-0.330000"
 				}
 			}
@@ -33738,8 +33742,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1435467333"
+					"value"		"4.660000"
+					"last_update"		"1454031919"
 					"difference"		"0.330000"
 				}
 			}
@@ -34354,10 +34358,9 @@
 				"18"
 				{
 					"currency"		"keys"
-					"value"		"12"
-					"last_update"		"1448288539"
-					"difference"		"-54"
-					"value_high"		"14"
+					"value"		"15"
+					"last_update"		"1454017207"
+					"difference"		"36.990002"
 				}
 				"19"
 				{
@@ -34830,9 +34833,10 @@
 				"32"
 				{
 					"currency"		"keys"
-					"value"		"40"
-					"last_update"		"1435549330"
-					"difference"		"57.165001"
+					"value"		"45"
+					"last_update"		"1453848189"
+					"difference"		"134.550003"
+					"value_high"		"50"
 				}
 				"33"
 				{
@@ -35126,8 +35130,9 @@
 				{
 					"currency"		"metal"
 					"value"		"5"
-					"last_update"		"1448336852"
-					"difference"		"-0.330000"
+					"last_update"		"1453742328"
+					"difference"		"0.500000"
+					"value_high"		"6"
 				}
 			}
 			"600"
@@ -35365,10 +35370,9 @@
 				"58"
 				{
 					"currency"		"keys"
-					"value"		"71"
-					"last_update"		"1437493470"
-					"difference"		"-449.445007"
-					"value_high"		"75"
+					"value"		"75"
+					"last_update"		"1453693361"
+					"difference"		"35.880001"
 				}
 				"59"
 				{
@@ -36023,6 +36027,14 @@
 					"last_update"		"1451725391"
 					"difference"		"489.859985"
 					"value_high"		"31"
+				}
+				"76"
+				{
+					"currency"		"keys"
+					"value"		"33"
+					"last_update"		"1453886354"
+					"difference"		"618.929993"
+					"value_high"		"36"
 				}
 			}
 			"6"
@@ -36991,10 +37003,10 @@
 				"13"
 				{
 					"currency"		"keys"
-					"value"		"35"
-					"last_update"		"1451361625"
-					"difference"		"-17.495001"
-					"value_high"		"40"
+					"value"		"40"
+					"last_update"		"1453829623"
+					"difference"		"80.730003"
+					"value_high"		"44"
 				}
 				"14"
 				{
@@ -39488,10 +39500,9 @@
 				"15"
 				{
 					"currency"		"keys"
-					"value"		"30"
-					"last_update"		"1414068022"
-					"difference"		"95.316002"
-					"value_high"		"34"
+					"value"		"25"
+					"last_update"		"1453997504"
+					"difference"		"-125.580002"
 				}
 				"16"
 				{
@@ -39975,10 +39986,9 @@
 				"17"
 				{
 					"currency"		"keys"
-					"value"		"210"
-					"last_update"		"1448861982"
-					"difference"		"95"
-					"value_high"		"230"
+					"value"		"280"
+					"last_update"		"1453747991"
+					"difference"		"1076.400024"
 				}
 				"18"
 				{
@@ -39992,9 +40002,8 @@
 				{
 					"currency"		"keys"
 					"value"		"175"
-					"last_update"		"1438364974"
-					"difference"		"71.730003"
-					"value_high"		"190"
+					"last_update"		"1454002342"
+					"difference"		"-134.550003"
 				}
 				"29"
 				{
@@ -40188,10 +40197,9 @@
 				"69"
 				{
 					"currency"		"keys"
-					"value"		"180"
-					"last_update"		"1442411801"
-					"difference"		"400"
-					"value_high"		"220"
+					"value"		"230"
+					"last_update"		"1454015627"
+					"difference"		"554.849976"
 				}
 				"7"
 				{
@@ -41300,10 +41308,9 @@
 				"13"
 				{
 					"currency"		"keys"
-					"value"		"94"
-					"last_update"		"1445979982"
-					"difference"		"-451.079987"
-					"value_high"		"120"
+					"value"		"120"
+					"last_update"		"1454011581"
+					"difference"		"240.434998"
 				}
 				"14"
 				{
@@ -42120,9 +42127,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.770000"
-					"last_update"		"1441152858"
-					"difference"		"-0.110000"
+					"value"		"1.660000"
+					"last_update"		"1454009019"
+					"difference"		"0.060000"
+					"value_high"		"2"
 				}
 			}
 			"600"
@@ -42220,9 +42228,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1453138808"
-					"difference"		"-0.165000"
+					"value"		"4"
+					"last_update"		"1454031362"
+					"difference"		"-0.330000"
 				}
 			}
 			"6"
@@ -42277,9 +42285,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5"
-					"last_update"		"1451714190"
-					"difference"		"-1"
+					"value"		"4.660000"
+					"last_update"		"1454031364"
+					"difference"		"-0.170000"
+					"value_high"		"5"
 				}
 			}
 			"6"
@@ -42585,9 +42594,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1426500692"
-					"difference"		"-1.700000"
+					"value"		"0.900000"
+					"last_update"		"1454032098"
+					"difference"		"-0.924750"
+					"value_high"		"1"
 				}
 			}
 			"6"
@@ -43300,9 +43310,10 @@
 				"57"
 				{
 					"currency"		"keys"
-					"value"		"22"
-					"last_update"		"1422407778"
-					"difference"		"-242.024994"
+					"value"		"15"
+					"last_update"		"1453943394"
+					"difference"		"-89.699997"
+					"value_high"		"19"
 				}
 				"58"
 				{
@@ -43554,9 +43565,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.050000"
-					"last_update"		"1448069574"
-					"difference"		"-0.850000"
+					"value"		"1.100000"
+					"last_update"		"1453770009"
+					"difference"		"1.794000"
+					"value_high"		"1.200000"
 				}
 			}
 			"5"
@@ -44687,9 +44699,9 @@
 				"13"
 				{
 					"currency"		"keys"
-					"value"		"6600"
-					"last_update"		"1425164811"
-					"difference"		"1939.800049"
+					"value"		"8000"
+					"last_update"		"1453875515"
+					"difference"		"25116"
 				}
 				"14"
 				{
@@ -45747,10 +45759,9 @@
 				"57"
 				{
 					"currency"		"keys"
-					"value"		"47"
-					"last_update"		"1407343584"
-					"difference"		"-74.860001"
-					"value_high"		"57"
+					"value"		"40"
+					"last_update"		"1454017229"
+					"difference"		"-221.940002"
 				}
 				"58"
 				{
@@ -45915,8 +45926,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.440000"
-					"last_update"		"1435166417"
-					"difference"		"0.110000"
+					"last_update"		"1453910973"
+					"difference"		"0.280000"
+					"value_high"		"2"
 				}
 			}
 			"600"
@@ -47439,10 +47451,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"60"
-					"last_update"		"1421538981"
-					"difference"		"829.395020"
-					"value_high"		"66"
+					"value"		"135"
+					"last_update"		"1453848417"
+					"difference"		"1291.680054"
 				}
 			}
 		}
@@ -47487,9 +47498,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1428216590"
-					"difference"		"-0.110000"
+					"value"		"3.660000"
+					"last_update"		"1454014454"
+					"difference"		"-0.170000"
+					"value_high"		"4.660000"
 				}
 			}
 		}
@@ -47722,8 +47734,9 @@
 				{
 					"currency"		"keys"
 					"value"		"26"
-					"last_update"		"1422992902"
-					"difference"		"-28.918501"
+					"last_update"		"1454011534"
+					"difference"		"83.227501"
+					"value_high"		"35"
 				}
 				"58"
 				{
@@ -48808,10 +48821,10 @@
 				"10"
 				{
 					"currency"		"keys"
-					"value"		"160"
-					"last_update"		"1439995518"
-					"difference"		"-120"
-					"value_high"		"185"
+					"value"		"180"
+					"last_update"		"1453911554"
+					"difference"		"493.350006"
+					"value_high"		"220"
 				}
 				"11"
 				{
@@ -49610,10 +49623,9 @@
 				"13"
 				{
 					"currency"		"keys"
-					"value"		"73"
-					"last_update"		"1427675024"
-					"difference"		"492.100006"
-					"value_high"		"90"
+					"value"		"76"
+					"last_update"		"1454002591"
+					"difference"		"-98.669998"
 				}
 				"14"
 				{
@@ -50234,8 +50246,8 @@
 				{
 					"currency"		"keys"
 					"value"		"50"
-					"last_update"		"1403151141"
-					"difference"		"-72.066872"
+					"last_update"		"1453924182"
+					"difference"		"0"
 				}
 				"60"
 				{
@@ -50878,9 +50890,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.440000"
-					"last_update"		"1434798971"
-					"difference"		"0.110000"
+					"value"		"1.660000"
+					"last_update"		"1453769788"
+					"difference"		"0.220000"
 				}
 			}
 			"600"
@@ -50982,8 +50994,9 @@
 				{
 					"currency"		"keys"
 					"value"		"16"
-					"last_update"		"1412582027"
-					"difference"		"-21.650000"
+					"last_update"		"1453761074"
+					"difference"		"8.970000"
+					"value_high"		"17"
 				}
 				"30"
 				{
@@ -52367,9 +52380,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1449668484"
-					"difference"		"-1.911000"
+					"value"		"1.500000"
+					"last_update"		"1453769719"
+					"difference"		"8.970000"
 				}
 			}
 			"14"
@@ -52377,9 +52390,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.200000"
-					"last_update"		"1438923999"
-					"difference"		"-6.400000"
+					"value"		"3"
+					"last_update"		"1454008129"
+					"difference"		"14.352000"
 				}
 			}
 			"6"
@@ -52398,8 +52411,9 @@
 				{
 					"currency"		"metal"
 					"value"		"0.050000"
-					"last_update"		"1452217074"
-					"difference"		"-0.060000"
+					"last_update"		"1454017561"
+					"difference"		"0.030000"
+					"value_high"		"0.110000"
 				}
 			}
 		}
@@ -52540,9 +52554,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.330000"
-					"last_update"		"1447159830"
-					"difference"		"-0.500000"
+					"value"		"0.110000"
+					"last_update"		"1454016521"
+					"difference"		"-0.110000"
+					"value_high"		"0.330000"
 				}
 			}
 		}
@@ -52651,10 +52666,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2"
-					"last_update"		"1437457592"
-					"difference"		"-0.165000"
-					"value_high"		"2.330000"
+					"value"		"2.330000"
+					"last_update"		"1453743233"
+					"difference"		"0.165000"
 				}
 			}
 			"14"
@@ -53262,9 +53276,8 @@
 				{
 					"currency"		"metal"
 					"value"		"0.440000"
-					"last_update"		"1448747400"
-					"difference"		"0.055000"
-					"value_high"		"0.550000"
+					"last_update"		"1454031680"
+					"difference"		"-0.055000"
 				}
 			}
 			"14"
@@ -54745,9 +54758,10 @@
 				"18"
 				{
 					"currency"		"keys"
-					"value"		"10"
-					"last_update"		"1449068270"
-					"difference"		"0"
+					"value"		"11"
+					"last_update"		"1454027854"
+					"difference"		"27.742500"
+					"value_high"		"12"
 				}
 				"19"
 				{
@@ -56211,9 +56225,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.330000"
-					"last_update"		"1446961444"
-					"difference"		"-0.220000"
+					"value"		"0.220000"
+					"last_update"		"1453860248"
+					"difference"		"-0.110000"
 				}
 			}
 			"11"
@@ -56858,9 +56872,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2"
-					"last_update"		"1445221914"
-					"difference"		"4.816500"
+					"value"		"2.200000"
+					"last_update"		"1453769693"
+					"difference"		"5.382000"
+					"value_high"		"2.400000"
 				}
 			}
 			"6"
@@ -56888,9 +56903,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"5"
-					"last_update"		"1449551099"
-					"difference"		"19.110001"
+					"value"		"6"
+					"last_update"		"1454031841"
+					"difference"		"18.495001"
 				}
 			}
 		}
@@ -58721,8 +58736,9 @@
 				{
 					"currency"		"metal"
 					"value"		"3.660000"
-					"last_update"		"1448747988"
-					"difference"		"-0.340000"
+					"last_update"		"1453910148"
+					"difference"		"0.170000"
+					"value_high"		"4"
 				}
 			}
 		}
@@ -59393,10 +59409,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1"
-					"last_update"		"1433040977"
+					"value"		"1.330000"
+					"last_update"		"1454009447"
 					"difference"		"0.165000"
-					"value_high"		"1.330000"
 				}
 			}
 		}
@@ -60581,9 +60596,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.330000"
-					"last_update"		"1449201307"
-					"difference"		"0.110000"
+					"value"		"0.220000"
+					"last_update"		"1453696751"
+					"difference"		"-0.110000"
 				}
 			}
 		}
@@ -61356,9 +61371,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"9.660000"
-					"last_update"		"1453572215"
-					"difference"		"0.330000"
+					"value"		"10"
+					"last_update"		"1453742007"
+					"difference"		"0.340000"
 				}
 			}
 			"5"
@@ -63024,8 +63039,9 @@
 				{
 					"currency"		"metal"
 					"value"		"0.050000"
-					"last_update"		"1450585034"
-					"difference"		"-0.060000"
+					"last_update"		"1453745264"
+					"difference"		"0.030000"
+					"value_high"		"0.110000"
 				}
 			}
 		}
@@ -63978,6 +63994,14 @@
 					"difference"		"-66.885002"
 					"value_high"		"100"
 				}
+				"86"
+				{
+					"currency"		"keys"
+					"value"		"70"
+					"last_update"		"1454003127"
+					"difference"		"1300.650024"
+					"value_high"		"75"
+				}
 			}
 			"6"
 			{
@@ -64433,9 +64457,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2.330000"
-					"last_update"		"1442438992"
-					"difference"		"0.165000"
+					"value"		"2"
+					"last_update"		"1454031986"
+					"difference"		"-0.165000"
+					"value_high"		"2.330000"
 				}
 			}
 			"6"
@@ -64508,9 +64533,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1"
-					"last_update"		"1442413331"
-					"difference"		"0.055000"
-					"value_high"		"1.110000"
+					"last_update"		"1454031995"
+					"difference"		"-0.055000"
 				}
 			}
 			"6"
@@ -65177,9 +65201,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6"
-					"last_update"		"1450939273"
-					"difference"		"-0.165000"
+					"value"		"7"
+					"last_update"		"1453885850"
+					"difference"		"1"
 				}
 			}
 			"11"
@@ -65336,9 +65360,9 @@
 				"59"
 				{
 					"currency"		"keys"
-					"value"		"21"
-					"last_update"		"1435087417"
-					"difference"		"-142.912506"
+					"value"		"13"
+					"last_update"		"1453906273"
+					"difference"		"-143.520004"
 				}
 				"6"
 				{
@@ -65763,9 +65787,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13.330000"
-					"last_update"		"1443224521"
-					"difference"		"-0.670000"
+					"value"		"14"
+					"last_update"		"1454031815"
+					"difference"		"0.670000"
 				}
 			}
 			"1100"
@@ -66415,9 +66439,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6"
-					"last_update"		"1450937798"
-					"difference"		"0.670000"
+					"value"		"5.660000"
+					"last_update"		"1453769429"
+					"difference"		"-0.340000"
 				}
 			}
 			"1100"
@@ -67089,9 +67113,9 @@
 				"34"
 				{
 					"currency"		"keys"
-					"value"		"13"
-					"last_update"		"1445925022"
-					"difference"		"-32.220001"
+					"value"		"14"
+					"last_update"		"1454015964"
+					"difference"		"18.495001"
 				}
 				"35"
 				{
@@ -67231,9 +67255,10 @@
 				"65"
 				{
 					"currency"		"keys"
-					"value"		"23"
-					"last_update"		"1443724596"
-					"difference"		"-136.467499"
+					"value"		"21"
+					"last_update"		"1454003546"
+					"difference"		"0"
+					"value_high"		"25"
 				}
 				"66"
 				{
@@ -68455,11 +68480,11 @@
 				}
 				"47"
 				{
-					"currency"		"usd"
-					"value"		"99.099998"
-					"value_high"		"132.130005"
-					"last_update"		"1353484081"
-					"difference"		"0"
+					"currency"		"keys"
+					"value"		"48"
+					"last_update"		"1454031874"
+					"difference"		"-20.213333"
+					"value_high"		"54"
 				}
 				"56"
 				{
@@ -69478,11 +69503,10 @@
 			{
 				"10"
 				{
-					"currency"		"usd"
-					"value"		"204.949997"
-					"value_high"		"243.619995"
-					"last_update"		"1379479612"
-					"difference"		"78.156998"
+					"currency"		"keys"
+					"value"		"90"
+					"last_update"		"1453718315"
+					"difference"		"-179.679993"
 				}
 				"11"
 				{
@@ -71442,11 +71466,10 @@
 				}
 				"39"
 				{
-					"currency"		"usd"
-					"value"		"90.010002"
-					"value_high"		"101.750000"
-					"last_update"		"1365705085"
-					"difference"		"48.612999"
+					"currency"		"keys"
+					"value"		"26"
+					"last_update"		"1454014022"
+					"difference"		"-318.130005"
 				}
 				"44"
 				{
@@ -71808,9 +71831,9 @@
 				"34"
 				{
 					"currency"		"keys"
-					"value"		"14"
-					"last_update"		"1439778994"
-					"difference"		"40"
+					"value"		"11"
+					"last_update"		"1453761037"
+					"difference"		"-53.820000"
 				}
 				"35"
 				{
@@ -72483,6 +72506,13 @@
 					"last_update"		"1449862289"
 					"difference"		"1681.680054"
 				}
+				"90"
+				{
+					"currency"		"keys"
+					"value"		"76"
+					"last_update"		"1453912641"
+					"difference"		"1363.439941"
+				}
 			}
 			"6"
 			{
@@ -72523,9 +72553,9 @@
 				"11"
 				{
 					"currency"		"keys"
-					"value"		"62"
-					"last_update"		"1416072755"
-					"difference"		"-228.429993"
+					"value"		"45"
+					"last_update"		"1453727386"
+					"difference"		"-304.980011"
 				}
 				"12"
 				{
@@ -72830,8 +72860,9 @@
 				{
 					"currency"		"keys"
 					"value"		"200"
-					"last_update"		"1451774701"
-					"difference"		"-437.375000"
+					"last_update"		"1454011786"
+					"difference"		"184.949997"
+					"value_high"		"220"
 				}
 				"8"
 				{
@@ -72990,8 +73021,9 @@
 				{
 					"currency"		"metal"
 					"value"		"2"
-					"last_update"		"1430227238"
-					"difference"		"0.170000"
+					"last_update"		"1453717932"
+					"difference"		"0.500000"
+					"value_high"		"3"
 				}
 			}
 			"600"
@@ -74913,9 +74945,9 @@
 				"14"
 				{
 					"currency"		"keys"
-					"value"		"340"
-					"last_update"		"1431785371"
-					"difference"		"-1748"
+					"value"		"510"
+					"last_update"		"1453755148"
+					"difference"		"3049.800049"
 				}
 				"15"
 				{
@@ -74956,10 +74988,10 @@
 				"29"
 				{
 					"currency"		"keys"
-					"value"		"23"
-					"last_update"		"1450370656"
-					"difference"		"38.220001"
-					"value_high"		"25"
+					"value"		"40"
+					"last_update"		"1453755681"
+					"difference"		"394.679993"
+					"value_high"		"52"
 				}
 				"30"
 				{
@@ -75010,10 +75042,10 @@
 				"36"
 				{
 					"currency"		"keys"
-					"value"		"16"
-					"last_update"		"1442466786"
-					"difference"		"-40"
-					"value_high"		"17"
+					"value"		"27"
+					"last_update"		"1453761182"
+					"difference"		"260.130005"
+					"value_high"		"35"
 				}
 				"37"
 				{
@@ -75766,11 +75798,11 @@
 			{
 				"0"
 				{
-					"currency"		"metal"
-					"value"		"16"
-					"last_update"		"1452907706"
-					"difference"		"0.500000"
-					"value_high"		"17.330000"
+					"currency"		"keys"
+					"value"		"0.900000"
+					"last_update"		"1453672507"
+					"difference"		"0.378000"
+					"value_high"		"1"
 				}
 			}
 		}
@@ -77263,8 +77295,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1445040908"
-					"difference"		"-0.170000"
+					"last_update"		"1454009990"
+					"difference"		"0.170000"
+					"value_high"		"2"
 				}
 			}
 			"600"
@@ -77299,9 +77332,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.200000"
-					"last_update"		"1452807033"
-					"difference"		"-1.749500"
+					"value"		"1.100000"
+					"last_update"		"1454031454"
+					"difference"		"-1.849500"
 				}
 			}
 		}
@@ -77514,9 +77547,8 @@
 				{
 					"currency"		"keys"
 					"value"		"11"
-					"last_update"		"1453174504"
-					"difference"		"-8.747500"
-					"value_high"		"12"
+					"last_update"		"1453831598"
+					"difference"		"-8.970000"
 				}
 			}
 		}
@@ -78425,10 +78457,9 @@
 				"73"
 				{
 					"currency"		"keys"
-					"value"		"52"
-					"last_update"		"1427642773"
-					"difference"		"-114"
-					"value_high"		"64"
+					"value"		"81"
+					"last_update"		"1453761542"
+					"difference"		"412.619995"
 				}
 				"76"
 				{
@@ -79231,10 +79262,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7.770000"
-					"last_update"		"1453329257"
-					"difference"		"0.110000"
-					"value_high"		"8"
+					"value"		"8"
+					"last_update"		"1454010428"
+					"difference"		"0.115000"
 				}
 			}
 		}
@@ -79879,9 +79909,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.200000"
-					"last_update"		"1449940222"
-					"difference"		"-1.911000"
+					"value"		"1.300000"
+					"last_update"		"1453742471"
+					"difference"		"1.794000"
 				}
 			}
 			"6"
@@ -79917,10 +79947,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2.660000"
-					"last_update"		"1452654837"
+					"value"		"3"
+					"last_update"		"1453696777"
 					"difference"		"0.170000"
-					"value_high"		"3"
 				}
 			}
 			"600"
@@ -79992,9 +80021,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.330000"
-					"last_update"		"1451548539"
-					"difference"		"0.330000"
+					"value"		"2"
+					"last_update"		"1453848230"
+					"difference"		"1"
+					"value_high"		"2.660000"
 				}
 			}
 			"14"
@@ -80527,10 +80557,9 @@
 				"64"
 				{
 					"currency"		"keys"
-					"value"		"72"
-					"last_update"		"1440862308"
-					"difference"		"-80"
-					"value_high"		"82"
+					"value"		"63"
+					"last_update"		"1453943369"
+					"difference"		"-251.160004"
 				}
 				"65"
 				{
@@ -80723,9 +80752,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5"
-					"last_update"		"1440990750"
-					"difference"		"0"
+					"value"		"5.330000"
+					"last_update"		"1453741893"
+					"difference"		"0.330000"
 				}
 			}
 			"6"
@@ -81432,11 +81461,10 @@
 				}
 				"44"
 				{
-					"currency"		"usd"
-					"value"		"250.419998"
-					"value_high"		"286.200012"
-					"last_update"		"1358110570"
-					"difference"		"0"
+					"currency"		"keys"
+					"value"		"96"
+					"last_update"		"1454008888"
+					"difference"		"-460.396667"
 				}
 				"46"
 				{
@@ -81770,9 +81798,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"12.660000"
-					"last_update"		"1453512239"
-					"difference"		"0.660000"
+					"value"		"13"
+					"last_update"		"1453742040"
+					"difference"		"0.340000"
 				}
 			}
 			"6"
@@ -81807,9 +81835,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.400000"
-					"last_update"		"1453514103"
-					"difference"		"1.749500"
+					"value"		"1.600000"
+					"last_update"		"1454010119"
+					"difference"		"4.623750"
+					"value_high"		"2"
 				}
 			}
 		}
@@ -82441,8 +82470,9 @@
 				{
 					"currency"		"keys"
 					"value"		"19"
-					"last_update"		"1422514957"
-					"difference"		"-99.154999"
+					"last_update"		"1454017242"
+					"difference"		"9.247500"
+					"value_high"		"20"
 				}
 				"58"
 				{
@@ -82991,6 +83021,13 @@
 					"last_update"		"1452799787"
 					"difference"		"743.537476"
 					"value_high"		"45"
+				}
+				"89"
+				{
+					"currency"		"keys"
+					"value"		"44"
+					"last_update"		"1453761839"
+					"difference"		"789.359985"
 				}
 			}
 			"6"
@@ -83559,9 +83596,9 @@
 				"31"
 				{
 					"currency"		"keys"
-					"value"		"145"
-					"last_update"		"1432694073"
-					"difference"		"266"
+					"value"		"100"
+					"last_update"		"1453755251"
+					"difference"		"-807.299988"
 				}
 				"32"
 				{
@@ -84385,8 +84422,9 @@
 				{
 					"currency"		"metal"
 					"value"		"4"
-					"last_update"		"1438151585"
-					"difference"		"-0.330000"
+					"last_update"		"1453760940"
+					"difference"		"0.330000"
+					"value_high"		"4.660000"
 				}
 			}
 			"14"
@@ -86012,9 +86050,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4"
-					"last_update"		"1450322354"
-					"difference"		"0.505000"
+					"value"		"4.660000"
+					"last_update"		"1454008013"
+					"difference"		"0.330000"
 					"value_high"		"5"
 				}
 			}
@@ -86507,9 +86545,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.880000"
-					"last_update"		"1450363369"
-					"difference"		"-0.120000"
+					"value"		"2"
+					"last_update"		"1453847755"
+					"difference"		"0.120000"
 				}
 			}
 			"6"
@@ -86664,10 +86702,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.330000"
-					"last_update"		"1451498272"
-					"difference"		"0.335000"
-					"value_high"		"2"
+					"value"		"1.660000"
+					"last_update"		"1454008030"
+					"difference"		"-0.005000"
 				}
 			}
 		}
@@ -87091,9 +87128,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.660000"
-					"last_update"		"1387762640"
-					"difference"		"-0.170000"
+					"value"		"0.550000"
+					"last_update"		"1453943812"
+					"difference"		"-0.110000"
 				}
 			}
 		}
@@ -87723,9 +87760,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6.330000"
-					"last_update"		"1446131260"
-					"difference"		"-0.330000"
+					"value"		"5.660000"
+					"last_update"		"1453769791"
+					"difference"		"-0.670000"
 				}
 			}
 			"6"
@@ -87808,8 +87845,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.440000"
-					"last_update"		"1438650041"
-					"difference"		"0.110000"
+					"last_update"		"1453848998"
+					"difference"		"0.055000"
+					"value_high"		"1.550000"
 				}
 			}
 			"600"
@@ -88686,9 +88724,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.550000"
-					"last_update"		"1442185662"
-					"difference"		"0.385000"
+					"value"		"0.330000"
+					"last_update"		"1454032278"
+					"difference"		"-0.110000"
 					"value_high"		"0.660000"
 				}
 			}
@@ -88724,10 +88762,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"0.330000"
-					"last_update"		"1445544209"
-					"difference"		"0.335000"
-					"value_high"		"1"
+					"value"		"0.660000"
+					"last_update"		"1454016354"
+					"difference"		"-0.005000"
 				}
 			}
 		}
@@ -89028,9 +89065,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"11"
-					"last_update"		"1446686868"
-					"difference"		"-0.500000"
+					"value"		"13"
+					"last_update"		"1453910206"
+					"difference"		"3"
+					"value_high"		"15"
 				}
 			}
 		}
@@ -89066,9 +89104,8 @@
 				{
 					"currency"		"metal"
 					"value"		"0.660000"
-					"last_update"		"1447103010"
-					"difference"		"0.500000"
-					"value_high"		"1"
+					"last_update"		"1454012127"
+					"difference"		"-0.170000"
 				}
 			}
 		}
@@ -89148,9 +89185,9 @@
 				"32"
 				{
 					"currency"		"keys"
-					"value"		"19"
-					"last_update"		"1443202038"
-					"difference"		"-96.330002"
+					"value"		"13"
+					"last_update"		"1454028424"
+					"difference"		"-110.970001"
 				}
 				"33"
 				{
@@ -89534,8 +89571,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.220000"
-					"last_update"		"1449480361"
+					"value"		"5"
+					"last_update"		"1453940185"
 					"difference"		"-0.220000"
 				}
 			}
@@ -89926,8 +89963,9 @@
 				{
 					"currency"		"metal"
 					"value"		"2"
-					"last_update"		"1428966695"
-					"difference"		"0.450000"
+					"last_update"		"1453874524"
+					"difference"		"0.165000"
+					"value_high"		"2.330000"
 				}
 			}
 			"600"
@@ -90297,10 +90335,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1451450336"
+					"value"		"4.660000"
+					"last_update"		"1453741802"
 					"difference"		"0.165000"
-					"value_high"		"4.660000"
 				}
 			}
 			"6"
@@ -90414,8 +90451,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1442622981"
-					"difference"		"-0.220000"
+					"last_update"		"1453756730"
+					"difference"		"0.110000"
+					"value_high"		"1.880000"
 				}
 			}
 		}
@@ -92399,10 +92437,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.880000"
-					"last_update"		"1452216367"
-					"difference"		"0.110000"
-					"value_high"		"2"
+					"value"		"2"
+					"last_update"		"1453944280"
+					"difference"		"0.060000"
 				}
 			}
 		}
@@ -92867,9 +92904,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2"
-					"last_update"		"1444449381"
-					"difference"		"0.340000"
+					"value"		"2.330000"
+					"last_update"		"1454032329"
+					"difference"		"0.330000"
 				}
 			}
 			"6"
@@ -92897,9 +92934,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"6"
-					"last_update"		"1424400883"
-					"difference"		"91.980003"
+					"value"		"7"
+					"last_update"		"1454010768"
+					"difference"		"18.495001"
 				}
 			}
 		}
@@ -93026,9 +93063,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.600000"
-					"last_update"		"1449637267"
-					"difference"		"-4.777500"
+					"value"		"2"
+					"last_update"		"1453848047"
+					"difference"		"7.176000"
 				}
 			}
 			"6"
@@ -93037,9 +93074,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1450344584"
-					"difference"		"0.165000"
-					"value_high"		"2"
+					"last_update"		"1453944525"
+					"difference"		"-0.170000"
 				}
 			}
 		}
@@ -93054,9 +93090,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"5.300000"
-					"last_update"		"1452705867"
-					"difference"		"9.622250"
+					"value"		"5.800000"
+					"last_update"		"1453848027"
+					"difference"		"8.970000"
 				}
 			}
 			"6"
@@ -93172,10 +93208,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7"
-					"last_update"		"1449869189"
-					"difference"		"1.500000"
-					"value_high"		"8"
+					"value"		"8"
+					"last_update"		"1453727502"
+					"difference"		"0.500000"
 				}
 			}
 		}
@@ -93628,9 +93663,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1434996326"
-					"difference"		"-0.110000"
+					"value"		"2"
+					"last_update"		"1453769427"
+					"difference"		"0.340000"
 				}
 			}
 			"6"
@@ -93896,8 +93931,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1447171113"
-					"difference"		"-0.170000"
+					"last_update"		"1453944538"
+					"difference"		"0.055000"
+					"value_high"		"1.770000"
 				}
 			}
 		}
@@ -94239,9 +94275,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2"
-					"last_update"		"1448763390"
-					"difference"		"-2.799000"
+					"value"		"2.200000"
+					"last_update"		"1454031984"
+					"difference"		"3.699000"
 				}
 			}
 			"6"
@@ -94276,9 +94312,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"12"
-					"last_update"		"1444915537"
-					"difference"		"-0.830000"
+					"value"		"13"
+					"last_update"		"1454031945"
+					"difference"		"1"
 				}
 			}
 			"14"
@@ -94314,9 +94350,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"11"
-					"last_update"		"1449881221"
-					"difference"		"-1"
+					"value"		"11.660000"
+					"last_update"		"1453847937"
+					"difference"		"0.660000"
 				}
 			}
 			"6"
@@ -94361,9 +94397,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.660000"
-					"last_update"		"1451147388"
-					"difference"		"-0.170000"
+					"value"		"5"
+					"last_update"		"1453741843"
+					"difference"		"0.340000"
 				}
 			}
 		}
@@ -94826,10 +94862,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5"
-					"last_update"		"1453024054"
-					"difference"		"1.005000"
-					"value_high"		"6"
+					"value"		"6"
+					"last_update"		"1453831484"
+					"difference"		"0.500000"
 				}
 			}
 			"6"
@@ -94864,9 +94899,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7.660000"
-					"last_update"		"1449014254"
-					"difference"		"-0.170000"
+					"value"		"8.330000"
+					"last_update"		"1453847951"
+					"difference"		"0.670000"
 				}
 			}
 			"5"
@@ -95072,6 +95107,21 @@
 					"value"		"107"
 					"last_update"		"1440344709"
 					"difference"		"1712"
+				}
+				"44"
+				{
+					"currency"		"keys"
+					"value"		"300"
+					"last_update"		"1453910756"
+					"difference"		"5382"
+				}
+				"88"
+				{
+					"currency"		"keys"
+					"value"		"65"
+					"last_update"		"1454011601"
+					"difference"		"1294.650024"
+					"value_high"		"75"
 				}
 			}
 			"6"
@@ -95754,10 +95804,9 @@
 				"3006"
 				{
 					"currency"		"keys"
-					"value"		"39"
-					"last_update"		"1438783148"
-					"difference"		"-7.970000"
-					"value_high"		"43"
+					"value"		"50"
+					"last_update"		"1454008699"
+					"difference"		"166.455002"
 				}
 				"3005"
 				{
@@ -95810,6 +95859,13 @@
 					"last_update"		"1428772309"
 					"difference"		"340"
 					"value_high"		"19"
+				}
+				"3012"
+				{
+					"currency"		"keys"
+					"value"		"71"
+					"last_update"		"1453912314"
+					"difference"		"1273.739990"
 				}
 			}
 		}
@@ -96273,8 +96329,9 @@
 				{
 					"currency"		"metal"
 					"value"		"8.660000"
-					"last_update"		"1451107103"
-					"difference"		"-0.170000"
+					"last_update"		"1453847911"
+					"difference"		"0.170000"
+					"value_high"		"9"
 				}
 			}
 			"5"
@@ -96657,9 +96714,10 @@
 				"3007"
 				{
 					"currency"		"keys"
-					"value"		"180"
-					"last_update"		"1450242439"
-					"difference"		"382.200012"
+					"value"		"200"
+					"last_update"		"1453886338"
+					"difference"		"627.900024"
+					"value_high"		"230"
 				}
 				"3011"
 				{
@@ -96982,8 +97040,9 @@
 				{
 					"currency"		"metal"
 					"value"		"1.330000"
-					"last_update"		"1439045095"
-					"difference"		"-0.165000"
+					"last_update"		"1454028023"
+					"difference"		"0.335000"
+					"value_high"		"2"
 				}
 			}
 		}
@@ -97089,8 +97148,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"10"
-					"last_update"		"1453512967"
+					"value"		"11"
+					"last_update"		"1453770226"
 					"difference"		"1"
 				}
 			}
@@ -97287,10 +97346,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.600000"
-					"last_update"		"1453164284"
-					"difference"		"-3.499000"
-					"value_high"		"3"
+					"value"		"2.500000"
+					"last_update"		"1454009310"
+					"difference"		"-5.548500"
 				}
 			}
 		}
@@ -97400,9 +97458,9 @@
 				"0"
 				{
 					"currency"		"usd"
-					"value"		"0.120000"
-					"last_update"		"1436814828"
-					"difference"		"0.010000"
+					"value"		"0.110000"
+					"last_update"		"1454008543"
+					"difference"		"-0.005000"
 					"value_high"		"0.130000"
 				}
 			}
@@ -97771,10 +97829,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"17.879999"
-					"last_update"		"1453657098"
-					"difference"		"0.445000"
-					"value_high"		"18"
+					"value"		"18.330000"
+					"last_update"		"1454008469"
+					"difference"		"0.555000"
+					"value_high"		"18.660000"
 				}
 			}
 		}
@@ -98142,9 +98200,10 @@
 				"9"
 				{
 					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1430873836"
-					"difference"		"-0.340000"
+					"value"		"4"
+					"last_update"		"1453761571"
+					"difference"		"2.840000"
+					"value_high"		"5"
 				}
 			}
 		}
@@ -98362,9 +98421,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7"
-					"last_update"		"1451497799"
-					"difference"		"1"
+					"value"		"7.660000"
+					"last_update"		"1454015128"
+					"difference"		"0.660000"
 				}
 			}
 			"600"
@@ -98435,9 +98494,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.600000"
-					"last_update"		"1453307128"
-					"difference"		"-6.998000"
+					"value"		"1.200000"
+					"last_update"		"1454010649"
+					"difference"		"-4.623750"
+					"value_high"		"1.500000"
 				}
 			}
 			"600"
@@ -99024,10 +99084,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1433512761"
-					"difference"		"-11.433000"
-					"value_high"		"1.800000"
+					"value"		"1.200000"
+					"last_update"		"1454016407"
+					"difference"		"-3.699000"
 				}
 			}
 			"9"
@@ -99456,9 +99515,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2"
-					"last_update"		"1446940400"
-					"difference"		"0.170000"
+					"value"		"1.660000"
+					"last_update"		"1454009259"
+					"difference"		"-0.170000"
+					"value_high"		"2"
 				}
 			}
 			"6"
@@ -99511,9 +99571,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1437630788"
-					"difference"		"0.280000"
-					"value_high"		"2"
+					"last_update"		"1453742152"
+					"difference"		"-0.170000"
 				}
 			}
 			"6"
@@ -99776,9 +99835,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2"
-					"last_update"		"1432838514"
-					"difference"		"-4.750000"
+					"value"		"1.700000"
+					"last_update"		"1454017394"
+					"difference"		"-2.774250"
+					"value_high"		"2"
 				}
 			}
 		}
@@ -101151,9 +101211,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.800000"
-					"last_update"		"1452074753"
-					"difference"		"-3.499000"
+					"value"		"1.600000"
+					"last_update"		"1454032265"
+					"difference"		"-3.699000"
 				}
 			}
 		}
@@ -101338,10 +101398,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.200000"
-					"last_update"		"1452543350"
-					"difference"		"-1.749500"
-					"value_high"		"1.400000"
+					"value"		"1.100000"
+					"last_update"		"1453742135"
+					"difference"		"-2.691000"
+					"value_high"		"1.200000"
 				}
 			}
 		}
@@ -101356,9 +101416,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1452625934"
-					"difference"		"-0.670000"
+					"value"		"4"
+					"last_update"		"1453910292"
+					"difference"		"-0.330000"
 				}
 			}
 		}
@@ -101467,10 +101527,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.700000"
-					"last_update"		"1452807262"
-					"difference"		"-2.624250"
-					"value_high"		"3"
+					"value"		"2.600000"
+					"last_update"		"1453860254"
+					"difference"		"-3.588000"
+					"value_high"		"2.700000"
 				}
 			}
 		}
@@ -101503,9 +101563,10 @@
 				"100"
 				{
 					"currency"		"metal"
-					"value"		"1"
-					"last_update"		"1453176948"
-					"difference"		"1"
+					"value"		"0.220000"
+					"last_update"		"1453742418"
+					"difference"		"-0.725000"
+					"value_high"		"0.330000"
 				}
 			}
 		}
@@ -101537,9 +101598,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5"
-					"last_update"		"1452385657"
-					"difference"		"-1"
+					"value"		"7"
+					"last_update"		"1453718413"
+					"difference"		"2"
 				}
 			}
 		}
@@ -101759,9 +101820,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1446386947"
-					"difference"		"-0.805500"
+					"value"		"2"
+					"last_update"		"1453940747"
+					"difference"		"17.940001"
 				}
 			}
 		}
@@ -101863,8 +101924,9 @@
 				{
 					"currency"		"keys"
 					"value"		"4"
-					"last_update"		"1452971663"
-					"difference"		"17.495001"
+					"last_update"		"1453940150"
+					"difference"		"4.485000"
+					"value_high"		"4.500000"
 				}
 			}
 		}
@@ -101913,9 +101975,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1444827694"
-					"difference"		"2.055000"
+					"value"		"2"
+					"last_update"		"1454002041"
+					"difference"		"7.176000"
 				}
 			}
 		}
@@ -101947,10 +102009,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"8"
-					"last_update"		"1448336861"
-					"difference"		"1.330000"
-					"value_high"		"10.660000"
+					"value"		"9.330000"
+					"last_update"		"1453769819"
+					"difference"		"0"
 				}
 			}
 		}
@@ -102016,10 +102077,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"4"
-					"last_update"		"1452807404"
-					"difference"		"8.747500"
-					"value_high"		"5"
+					"value"		"6"
+					"last_update"		"1453875840"
+					"difference"		"26.910000"
 				}
 			}
 		}
@@ -102254,10 +102314,11 @@
 			{
 				"0"
 				{
-					"currency"		"metal"
-					"value"		"8.330000"
-					"last_update"		"1451434803"
-					"difference"		"0.330000"
+					"currency"		"keys"
+					"value"		"0.500000"
+					"last_update"		"1453743103"
+					"difference"		"5.125000"
+					"value_high"		"1"
 				}
 			}
 		}
@@ -102343,9 +102404,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"14"
-					"last_update"		"1451713137"
-					"difference"		"5.670000"
+					"value"		"12"
+					"last_update"		"1453672408"
+					"difference"		"-2"
 				}
 			}
 		}
@@ -102463,9 +102524,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"8.330000"
-					"last_update"		"1451435064"
-					"difference"		"0.330000"
+					"value"		"8"
+					"last_update"		"1453943678"
+					"difference"		"-0.330000"
 				}
 			}
 		}
@@ -102965,9 +103026,9 @@
 				"30363"
 				{
 					"currency"		"keys"
-					"value"		"3"
-					"last_update"		"1446918480"
-					"difference"		"22.554001"
+					"value"		"4.500000"
+					"last_update"		"1453921057"
+					"difference"		"26.910000"
 				}
 				"30350"
 				{
@@ -103085,10 +103146,9 @@
 				"594"
 				{
 					"currency"		"metal"
-					"value"		"2"
-					"last_update"		"1452045875"
-					"difference"		"0.500000"
-					"value_high"		"3"
+					"value"		"2.660000"
+					"last_update"		"1454009637"
+					"difference"		"0.160000"
 				}
 				"30362"
 				{
@@ -104120,6 +104180,13 @@
 					"last_update"		"1451167393"
 					"difference"		"874.750000"
 				}
+				"30069-14"
+				{
+					"currency"		"keys"
+					"value"		"50"
+					"last_update"		"1453943809"
+					"difference"		"897"
+				}
 			}
 		}
 		"30001"
@@ -104892,9 +104959,9 @@
 				{
 					"currency"		"keys"
 					"value"		"60"
-					"last_update"		"1444582848"
-					"difference"		"-40.137501"
-					"value_high"		"65"
+					"last_update"		"1453921802"
+					"difference"		"26.910000"
+					"value_high"		"68"
 				}
 				"63"
 				{
@@ -105118,6 +105185,13 @@
 					"value"		"213"
 					"last_update"		"1449023061"
 					"difference"		"4047"
+				}
+				"17"
+				{
+					"currency"		"keys"
+					"value"		"620"
+					"last_update"		"1453761237"
+					"difference"		"11122.799805"
 				}
 			}
 			"6"
@@ -105468,9 +105542,9 @@
 				"87"
 				{
 					"currency"		"keys"
-					"value"		"65"
-					"last_update"		"1445043032"
-					"difference"		"313.072510"
+					"value"		"75"
+					"last_update"		"1453761013"
+					"difference"		"179.399994"
 				}
 				"88"
 				{
@@ -105729,10 +105803,9 @@
 				"32"
 				{
 					"currency"		"keys"
-					"value"		"9"
-					"last_update"		"1434660511"
-					"difference"		"-66.692497"
-					"value_high"		"12"
+					"value"		"11"
+					"last_update"		"1453753549"
+					"difference"		"8.970000"
 				}
 				"74"
 				{
@@ -106415,6 +106488,13 @@
 					"difference"		"760"
 					"value_high"		"43"
 				}
+				"63"
+				{
+					"currency"		"keys"
+					"value"		"25"
+					"last_update"		"1453761738"
+					"difference"		"448.500000"
+				}
 			}
 			"6"
 			{
@@ -106789,9 +106869,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1447781702"
-					"difference"		"-0.335000"
-					"value_high"		"2"
+					"last_update"		"1453769842"
+					"difference"		"-0.170000"
 				}
 			}
 		}
@@ -107842,9 +107921,9 @@
 				"70"
 				{
 					"currency"		"keys"
-					"value"		"36"
-					"last_update"		"1422049134"
-					"difference"		"-19.362000"
+					"value"		"27"
+					"last_update"		"1454010373"
+					"difference"		"-166.455002"
 				}
 				"77"
 				{
@@ -111024,6 +111103,13 @@
 					"value"		"41"
 					"last_update"		"1449035071"
 					"difference"		"779"
+				}
+				"46"
+				{
+					"currency"		"keys"
+					"value"		"40"
+					"last_update"		"1453943564"
+					"difference"		"717.599976"
 				}
 			}
 			"6"
@@ -116232,10 +116318,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.660000"
-					"last_update"		"1445980592"
-					"difference"		"0.335000"
-					"value_high"		"6"
+					"value"		"6"
+					"last_update"		"1453741880"
+					"difference"		"0.170000"
 				}
 			}
 			"6"
@@ -116494,10 +116579,9 @@
 				"70"
 				{
 					"currency"		"keys"
-					"value"		"350"
-					"last_update"		"1440107077"
-					"difference"		"-1944"
-					"value_high"		"370"
+					"value"		"440"
+					"last_update"		"1453779971"
+					"difference"		"1435.199951"
 				}
 				"67"
 				{
@@ -117666,8 +117750,8 @@
 				{
 					"currency"		"keys"
 					"value"		"81"
-					"last_update"		"1446218336"
-					"difference"		"-128.880005"
+					"last_update"		"1453679687"
+					"difference"		"0"
 				}
 				"82"
 				{
@@ -119373,9 +119457,9 @@
 				"74"
 				{
 					"currency"		"keys"
-					"value"		"30"
-					"last_update"		"1419527297"
-					"difference"		"-86.231247"
+					"value"		"40"
+					"last_update"		"1453679420"
+					"difference"		"179.399994"
 				}
 				"77"
 				{
@@ -120147,6 +120231,13 @@
 					"value"		"50"
 					"last_update"		"1449944214"
 					"difference"		"955.500000"
+				}
+				"19"
+				{
+					"currency"		"keys"
+					"value"		"80"
+					"last_update"		"1453755504"
+					"difference"		"1435.199951"
 				}
 			}
 			"6"
@@ -120952,6 +121043,13 @@
 					"difference"		"1611"
 					"value_high"		"102"
 				}
+				"81"
+				{
+					"currency"		"keys"
+					"value"		"90"
+					"last_update"		"1453911304"
+					"difference"		"1614.599976"
+				}
 			}
 			"6"
 			{
@@ -121093,9 +121191,9 @@
 				"73"
 				{
 					"currency"		"keys"
-					"value"		"67"
-					"last_update"		"1418223581"
-					"difference"		"8.862000"
+					"value"		"98"
+					"last_update"		"1453873849"
+					"difference"		"556.140015"
 				}
 				"79"
 				{
@@ -122241,11 +122339,10 @@
 				}
 				"69"
 				{
-					"currency"		"usd"
-					"value"		"281.029999"
-					"value_high"		"350.890015"
-					"last_update"		"1382890676"
-					"difference"		"0"
+					"currency"		"keys"
+					"value"		"244"
+					"last_update"		"1453762050"
+					"difference"		"1849.680054"
 				}
 				"9"
 				{
@@ -123947,9 +124044,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1430110390"
-					"difference"		"0.110000"
+					"value"		"4"
+					"last_update"		"1453746302"
+					"difference"		"2.840000"
+					"value_high"		"5"
 				}
 			}
 		}
@@ -124373,9 +124471,9 @@
 				"75"
 				{
 					"currency"		"keys"
-					"value"		"54"
-					"last_update"		"1446702454"
-					"difference"		"177.210007"
+					"value"		"78"
+					"last_update"		"1453885056"
+					"difference"		"430.559998"
 				}
 				"6"
 				{
@@ -124565,9 +124663,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13"
-					"last_update"		"1447856172"
-					"difference"		"-1"
+					"value"		"13.330000"
+					"last_update"		"1453696804"
+					"difference"		"0.330000"
 				}
 			}
 			"6"
@@ -125400,6 +125498,13 @@
 					"last_update"		"1450370723"
 					"difference"		"535.080017"
 				}
+				"37"
+				{
+					"currency"		"keys"
+					"value"		"35"
+					"last_update"		"1453760622"
+					"difference"		"627.900024"
+				}
 			}
 			"6"
 			{
@@ -125451,10 +125556,10 @@
 				"29"
 				{
 					"currency"		"keys"
-					"value"		"100"
-					"last_update"		"1442943755"
-					"difference"		"-40.137501"
-					"value_high"		"120"
+					"value"		"120"
+					"last_update"		"1453911901"
+					"difference"		"269.100006"
+					"value_high"		"130"
 				}
 				"31"
 				{
@@ -126044,6 +126149,13 @@
 					"value"		"28"
 					"last_update"		"1452217302"
 					"difference"		"489.859985"
+				}
+				"39"
+				{
+					"currency"		"keys"
+					"value"		"40"
+					"last_update"		"1454010635"
+					"difference"		"739.799988"
 				}
 			}
 			"6"
@@ -128016,9 +128128,9 @@
 				"74"
 				{
 					"currency"		"keys"
-					"value"		"78"
-					"last_update"		"1442430994"
-					"difference"		"24"
+					"value"		"88"
+					"last_update"		"1453770349"
+					"difference"		"179.399994"
 				}
 				"62"
 				{
@@ -128142,10 +128254,10 @@
 				"88"
 				{
 					"currency"		"keys"
-					"value"		"33"
-					"last_update"		"1426010087"
-					"difference"		"620.185486"
-					"value_high"		"41"
+					"value"		"32"
+					"last_update"		"1454013207"
+					"difference"		"-55.485001"
+					"value_high"		"36"
 				}
 				"90"
 				{
@@ -128276,10 +128388,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.330000"
-					"last_update"		"1452478295"
-					"difference"		"0.665000"
-					"value_high"		"6"
+					"value"		"6"
+					"last_update"		"1454031689"
+					"difference"		"0.335000"
 				}
 			}
 			"14"
@@ -129091,9 +129202,8 @@
 				{
 					"currency"		"metal"
 					"value"		"3.660000"
-					"last_update"		"1446505439"
-					"difference"		"0.170000"
-					"value_high"		"4"
+					"last_update"		"1453940303"
+					"difference"		"-0.170000"
 				}
 			}
 			"6"
@@ -129317,9 +129427,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6"
-					"last_update"		"1452896673"
-					"difference"		"1"
+					"value"		"6.330000"
+					"last_update"		"1454031697"
+					"difference"		"0.330000"
 				}
 			}
 		}
@@ -129469,9 +129579,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.100000"
-					"last_update"		"1444362570"
-					"difference"		"1.605500"
+					"value"		"2"
+					"last_update"		"1454006863"
+					"difference"		"-1.794000"
 				}
 			}
 			"6"
@@ -130520,10 +130630,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6.330000"
-					"last_update"		"1446782175"
-					"difference"		"0.665000"
-					"value_high"		"7"
+					"value"		"6"
+					"last_update"		"1453910065"
+					"difference"		"-0.665000"
 				}
 			}
 			"6"
@@ -130957,9 +131066,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.300000"
-					"last_update"		"1443323319"
-					"difference"		"4.816500"
+					"value"		"2.500000"
+					"last_update"		"1454031929"
+					"difference"		"3.699000"
 				}
 			}
 		}
@@ -131169,11 +131278,11 @@
 			{
 				"0"
 				{
-					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1451430646"
-					"difference"		"0.335000"
-					"value_high"		"2.330000"
+					"currency"		"keys"
+					"value"		"1.800000"
+					"last_update"		"1454017718"
+					"difference"		"-6.473250"
+					"value_high"		"2"
 				}
 			}
 		}
@@ -131864,9 +131973,9 @@
 				"14"
 				{
 					"currency"		"keys"
-					"value"		"710"
-					"last_update"		"1431457563"
-					"difference"		"13369.299805"
+					"value"		"550"
+					"last_update"		"1454014504"
+					"difference"		"-2959.199951"
 				}
 				"86"
 				{
@@ -132331,6 +132440,13 @@
 					"last_update"		"1447709953"
 					"difference"		"357"
 					"value_high"		"22"
+				}
+				"87"
+				{
+					"currency"		"keys"
+					"value"		"50"
+					"last_update"		"1453744381"
+					"difference"		"897"
 				}
 			}
 			"6"
@@ -133743,9 +133859,9 @@
 				"19"
 				{
 					"currency"		"keys"
-					"value"		"112"
-					"last_update"		"1418337902"
-					"difference"		"1501.291260"
+					"value"		"128"
+					"last_update"		"1453756130"
+					"difference"		"287.040009"
 				}
 				"18"
 				{
@@ -133860,6 +133976,13 @@
 					"difference"		"636.500000"
 					"value_high"		"37"
 				}
+				"13"
+				{
+					"currency"		"keys"
+					"value"		"145"
+					"last_update"		"1453718229"
+					"difference"		"2601.300049"
+				}
 			}
 			"6"
 			{
@@ -133867,9 +133990,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1449464061"
-					"difference"		"0.335000"
-					"value_high"		"2"
+					"last_update"		"1453944363"
+					"difference"		"-0.170000"
 				}
 			}
 		}
@@ -134429,10 +134551,10 @@
 				"62"
 				{
 					"currency"		"keys"
-					"value"		"28"
-					"last_update"		"1440511586"
-					"difference"		"24"
-					"value_high"		"29"
+					"value"		"23"
+					"last_update"		"1453943382"
+					"difference"		"-35.880001"
+					"value_high"		"30"
 				}
 				"6"
 				{
@@ -134611,6 +134733,13 @@
 					"last_update"		"1453502032"
 					"difference"		"787.275024"
 				}
+				"37"
+				{
+					"currency"		"keys"
+					"value"		"55"
+					"last_update"		"1454011337"
+					"difference"		"1017.224976"
+				}
 			}
 			"6"
 			{
@@ -134661,9 +134790,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13"
-					"last_update"		"1439390053"
-					"difference"		"0.340000"
+					"value"		"14"
+					"last_update"		"1453679358"
+					"difference"		"1"
 				}
 			}
 			"6"
@@ -135506,6 +135635,13 @@
 					"last_update"		"1450996682"
 					"difference"		"192.445007"
 				}
+				"17"
+				{
+					"currency"		"keys"
+					"value"		"195"
+					"last_update"		"1453755427"
+					"difference"		"3498.300049"
+				}
 			}
 			"11"
 			{
@@ -135971,9 +136107,10 @@
 				"15"
 				{
 					"currency"		"keys"
-					"value"		"37"
-					"last_update"		"1432561676"
-					"difference"		"-380"
+					"value"		"30"
+					"last_update"		"1453756007"
+					"difference"		"-80.730003"
+					"value_high"		"35"
 				}
 				"85"
 				{
@@ -136019,6 +136156,13 @@
 					"value"		"50"
 					"last_update"		"1451006024"
 					"difference"		"874.750000"
+				}
+				"10"
+				{
+					"currency"		"keys"
+					"value"		"100"
+					"last_update"		"1453718092"
+					"difference"		"1794"
 				}
 			}
 			"6"
@@ -136320,9 +136464,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"3.200000"
-					"last_update"		"1449795081"
-					"difference"		"3.822000"
+					"value"		"3.800000"
+					"last_update"		"1453696743"
+					"difference"		"10.764000"
 				}
 			}
 			"6"
@@ -136651,9 +136795,8 @@
 				{
 					"currency"		"keys"
 					"value"		"3"
-					"last_update"		"1451945756"
-					"difference"		"8.747500"
-					"value_high"		"4"
+					"last_update"		"1454013870"
+					"difference"		"-9.247500"
 				}
 			}
 			"6"
@@ -136689,9 +136832,8 @@
 				{
 					"currency"		"metal"
 					"value"		"1.660000"
-					"last_update"		"1429296894"
-					"difference"		"0.170000"
-					"value_high"		"2"
+					"last_update"		"1453770237"
+					"difference"		"-0.170000"
 				}
 			}
 		}
@@ -138251,6 +138393,14 @@
 					"difference"		"418.859985"
 					"value_high"		"28"
 				}
+				"88"
+				{
+					"currency"		"keys"
+					"value"		"50"
+					"last_update"		"1454017282"
+					"difference"		"1017.224976"
+					"value_high"		"60"
+				}
 			}
 		}
 		"30394"
@@ -138264,9 +138414,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"3.660000"
-					"last_update"		"1450633918"
-					"difference"		"-0.280000"
+					"value"		"3.330000"
+					"last_update"		"1454003877"
+					"difference"		"-0.165000"
+					"value_high"		"3.660000"
 				}
 			}
 			"5"
@@ -139196,9 +139347,8 @@
 				{
 					"currency"		"metal"
 					"value"		"5"
-					"last_update"		"1453345450"
+					"last_update"		"1453761359"
 					"difference"		"-0.165000"
-					"value_high"		"5.330000"
 				}
 			}
 		}
@@ -140529,9 +140679,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2.660000"
-					"last_update"		"1453501883"
-					"difference"		"-0.335000"
+					"value"		"2.220000"
+					"last_update"		"1453940093"
+					"difference"		"-0.385000"
+					"value_high"		"2.330000"
 				}
 			}
 			"5"
@@ -141483,10 +141634,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5"
-					"last_update"		"1449795102"
-					"difference"		"0.835000"
-					"value_high"		"5.330000"
+					"value"		"7"
+					"last_update"		"1453910927"
+					"difference"		"2.335000"
+					"value_high"		"8"
 				}
 			}
 			"11"
@@ -141538,9 +141689,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13.660000"
-					"last_update"		"1437457324"
-					"difference"		"-1.340000"
+					"value"		"14"
+					"last_update"		"1453742054"
+					"difference"		"0.340000"
 				}
 			}
 			"6"
@@ -141548,9 +141699,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6.660000"
-					"last_update"		"1452096275"
-					"difference"		"0.660000"
+					"value"		"7.660000"
+					"last_update"		"1453998205"
+					"difference"		"0.330000"
 				}
 			}
 			"5"
@@ -143199,9 +143350,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.600000"
-					"last_update"		"1452643783"
-					"difference"		"-1.749500"
+					"value"		"1.450000"
+					"last_update"		"1453998187"
+					"difference"		"-2.691000"
 				}
 			}
 			"13"
@@ -143672,6 +143823,13 @@
 					"value"		"52"
 					"last_update"		"1453023143"
 					"difference"		"279.920013"
+				}
+				"89"
+				{
+					"currency"		"keys"
+					"value"		"245"
+					"last_update"		"1453907646"
+					"difference"		"4395.299805"
 				}
 			}
 		}
@@ -144485,10 +144643,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"6"
-					"last_update"		"1451021181"
-					"difference"		"0.330000"
-					"value_high"		"6.660000"
+					"value"		"6.660000"
+					"last_update"		"1454009660"
+					"difference"		"0.335000"
+					"value_high"		"7"
 				}
 			}
 			"11"
@@ -144496,9 +144654,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.400000"
-					"last_update"		"1449903549"
-					"difference"		"7.644000"
+					"value"		"2.500000"
+					"last_update"		"1453696729"
+					"difference"		"1.794000"
 				}
 			}
 		}
@@ -144578,10 +144736,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"7"
-					"last_update"		"1443586772"
+					"value"		"8"
+					"last_update"		"1453696762"
 					"difference"		"0.500000"
-					"value_high"		"8"
 				}
 			}
 			"5"
@@ -144900,10 +145057,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2"
-					"last_update"		"1450198184"
-					"difference"		"0.165000"
-					"value_high"		"2.330000"
+					"value"		"3.660000"
+					"last_update"		"1454009606"
+					"difference"		"2.165000"
+					"value_high"		"5"
 				}
 			}
 			"11"
@@ -144911,9 +145068,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1434130612"
-					"difference"		"4.055000"
+					"value"		"1.300000"
+					"last_update"		"1453940248"
+					"difference"		"1.794000"
 				}
 			}
 			"5"
@@ -144938,9 +145095,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"3"
-					"last_update"		"1424475958"
-					"difference"		"3"
+					"value"		"2.330000"
+					"last_update"		"1453696898"
+					"difference"		"-0.335000"
+					"value_high"		"3"
 				}
 			}
 		}
@@ -144982,8 +145140,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"2.330000"
-					"last_update"		"1453540851"
+					"value"		"2"
+					"last_update"		"1453910582"
 					"difference"		"-0.330000"
 				}
 			}
@@ -145388,9 +145546,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"8"
-					"last_update"		"1439389923"
-					"difference"		"0.500000"
+					"value"		"12"
+					"last_update"		"1453742558"
+					"difference"		"4"
 				}
 			}
 		}
@@ -145749,9 +145907,9 @@
 				"10"
 				{
 					"currency"		"keys"
-					"value"		"160"
-					"last_update"		"1442120267"
-					"difference"		"-320"
+					"value"		"222"
+					"last_update"		"1453742758"
+					"difference"		"1112.280029"
 				}
 				"30"
 				{
@@ -145852,9 +146010,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"9"
-					"last_update"		"1452911034"
-					"difference"		"0.670000"
+					"value"		"10"
+					"last_update"		"1453769624"
+					"difference"		"1"
 				}
 			}
 			"11"
@@ -145889,9 +146047,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"14"
-					"last_update"		"1443705780"
-					"difference"		"1"
+					"value"		"12"
+					"last_update"		"1453696802"
+					"difference"		"-2"
 				}
 			}
 		}
@@ -146910,6 +147068,13 @@
 					"last_update"		"1452717476"
 					"difference"		"909.739990"
 				}
+				"61"
+				{
+					"currency"		"keys"
+					"value"		"65"
+					"last_update"		"1454010011"
+					"difference"		"1202.175049"
+				}
 			}
 		}
 		"30599"
@@ -146932,10 +147097,10 @@
 			{
 				"0"
 				{
-					"currency"		"metal"
-					"value"		"17"
-					"last_update"		"1453250452"
-					"difference"		"0.340000"
+					"currency"		"keys"
+					"value"		"1.400000"
+					"last_update"		"1453885804"
+					"difference"		"7.176000"
 				}
 			}
 		}
@@ -147042,9 +147207,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.330000"
-					"last_update"		"1450451858"
-					"difference"		"0.330000"
+					"value"		"6"
+					"last_update"		"1453860130"
+					"difference"		"1.670000"
 				}
 			}
 		}
@@ -147219,9 +147384,8 @@
 				{
 					"currency"		"metal"
 					"value"		"2"
-					"last_update"		"1453385191"
+					"last_update"		"1454031401"
 					"difference"		"-0.165000"
-					"value_high"		"2.330000"
 				}
 			}
 		}
@@ -147322,9 +147486,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"4.900000"
-					"last_update"		"1450938808"
-					"difference"		"-1.749500"
+					"value"		"4.400000"
+					"last_update"		"1453671813"
+					"difference"		"-8.970000"
 				}
 			}
 			"11"
@@ -147346,6 +147510,14 @@
 					"last_update"		"1447395065"
 					"difference"		"81.650002"
 					"value_high"		"185"
+				}
+				"3005"
+				{
+					"currency"		"keys"
+					"value"		"300"
+					"last_update"		"1453847891"
+					"difference"		"5830.500000"
+					"value_high"		"350"
 				}
 			}
 		}
@@ -147577,6 +147749,14 @@
 					"last_update"		"1452805932"
 					"difference"		"664.809998"
 				}
+				"17"
+				{
+					"currency"		"keys"
+					"value"		"360"
+					"last_update"		"1453744497"
+					"difference"		"6727.500000"
+					"value_high"		"390"
+				}
 			}
 		}
 		"30625"
@@ -147666,6 +147846,14 @@
 					"last_update"		"1452449434"
 					"difference"		"524.849976"
 				}
+				"9"
+				{
+					"currency"		"keys"
+					"value"		"50"
+					"last_update"		"1453760005"
+					"difference"		"986.700012"
+					"value_high"		"60"
+				}
 			}
 			"11"
 			{
@@ -147727,9 +147915,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.300000"
-					"last_update"		"1451845246"
-					"difference"		"-1.749500"
+					"value"		"2"
+					"last_update"		"1453860295"
+					"difference"		"-5.382000"
 				}
 			}
 			"5"
@@ -148028,9 +148216,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1446856538"
-					"difference"		"-0.340000"
+					"value"		"2"
+					"last_update"		"1454031412"
+					"difference"		"0.340000"
 				}
 			}
 			"11"
@@ -148166,6 +148354,21 @@
 					"last_update"		"1452547383"
 					"difference"		"2011.925049"
 				}
+				"8"
+				{
+					"currency"		"keys"
+					"value"		"50"
+					"last_update"		"1453906707"
+					"difference"		"977.729980"
+					"value_high"		"59"
+				}
+				"58"
+				{
+					"currency"		"keys"
+					"value"		"70"
+					"last_update"		"1454011608"
+					"difference"		"1294.650024"
+				}
 			}
 		}
 		"30637"
@@ -148189,9 +148392,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"4.660000"
-					"last_update"		"1452444299"
-					"difference"		"0.660000"
+					"value"		"5"
+					"last_update"		"1453905621"
+					"difference"		"0.340000"
 				}
 			}
 		}
@@ -148279,9 +148482,8 @@
 				{
 					"currency"		"keys"
 					"value"		"13"
-					"last_update"		"1453512882"
-					"difference"		"61.232498"
-					"value_high"		"14"
+					"last_update"		"1454032390"
+					"difference"		"-9.247500"
 				}
 			}
 			"11"
@@ -148565,6 +148767,14 @@
 					"last_update"		"1450379736"
 					"difference"		"1880.712524"
 					"value_high"		"120"
+				}
+				"94"
+				{
+					"currency"		"keys"
+					"value"		"81"
+					"last_update"		"1453912747"
+					"difference"		"1471.079956"
+					"value_high"		"83"
 				}
 			}
 			"11"
@@ -148883,9 +149093,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13"
-					"last_update"		"1447827145"
-					"difference"		"-2.300000"
+					"value"		"12"
+					"last_update"		"1453770346"
+					"difference"		"-1"
 				}
 			}
 		}
@@ -149010,8 +149220,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.330000"
-					"last_update"		"1449724475"
+					"value"		"5"
+					"last_update"		"1453860120"
 					"difference"		"-0.330000"
 				}
 			}
@@ -149055,10 +149265,10 @@
 				"96"
 				{
 					"currency"		"keys"
-					"value"		"14"
-					"last_update"		"1448070718"
-					"difference"		"263.500000"
-					"value_high"		"17"
+					"value"		"18"
+					"last_update"		"1453761983"
+					"difference"		"62.790001"
+					"value_high"		"20"
 				}
 				"97"
 				{
@@ -149252,6 +149462,17 @@
 					"difference"		"34.990002"
 				}
 			}
+			"0"
+			{
+				"0"
+				{
+					"currency"		"keys"
+					"value"		"60"
+					"last_update"		"1454039210"
+					"difference"		"1128.194946"
+					"value_high"		"62"
+				}
+			}
 		}
 		"30668"
 		{
@@ -149264,9 +149485,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.750000"
-					"last_update"		"1450860416"
-					"difference"		"-4.373750"
+					"value"		"2"
+					"last_update"		"1453742520"
+					"difference"		"4.485000"
 				}
 			}
 			"11"
@@ -149336,9 +149557,10 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.200000"
-					"last_update"		"1452728256"
-					"difference"		"-1.749500"
+					"value"		"2"
+					"last_update"		"1453886137"
+					"difference"		"-2.691000"
+					"value_high"		"2.100000"
 				}
 			}
 		}
@@ -149451,9 +149673,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"1.660000"
-					"last_update"		"1447827171"
-					"difference"		"-0.225000"
+					"value"		"2"
+					"last_update"		"1453769596"
+					"difference"		"0.340000"
 				}
 			}
 			"11"
@@ -149624,8 +149846,9 @@
 				{
 					"currency"		"metal"
 					"value"		"7"
-					"last_update"		"1453316848"
-					"difference"		"0.670000"
+					"last_update"		"1453742497"
+					"difference"		"0.500000"
+					"value_high"		"8"
 				}
 			}
 			"11"
@@ -149673,10 +149896,9 @@
 				"104"
 				{
 					"currency"		"keys"
-					"value"		"60"
-					"last_update"		"1452282202"
-					"difference"		"1312.125000"
-					"value_high"		"90"
+					"value"		"95"
+					"last_update"		"1453761808"
+					"difference"		"358.799988"
 				}
 				"100"
 				{
@@ -149744,10 +149966,10 @@
 			{
 				"0"
 				{
-					"currency"		"metal"
-					"value"		"17"
-					"last_update"		"1451758327"
-					"difference"		"-5.743500"
+					"currency"		"keys"
+					"value"		"1"
+					"last_update"		"1454013348"
+					"difference"		"1.495000"
 				}
 			}
 			"6"
@@ -149804,6 +150026,13 @@
 					"value"		"230"
 					"last_update"		"1453657877"
 					"difference"		"4126.200195"
+				}
+				"103"
+				{
+					"currency"		"keys"
+					"value"		"190"
+					"last_update"		"1453885233"
+					"difference"		"3408.600098"
 				}
 			}
 		}
@@ -150100,6 +150329,29 @@
 					"difference"		"944.729980"
 					"value_high"		"55"
 				}
+				"102"
+				{
+					"currency"		"keys"
+					"value"		"35"
+					"last_update"		"1453884567"
+					"difference"		"762.450012"
+					"value_high"		"50"
+				}
+				"101"
+				{
+					"currency"		"keys"
+					"value"		"41"
+					"last_update"		"1453884707"
+					"difference"		"735.539978"
+				}
+				"105"
+				{
+					"currency"		"keys"
+					"value"		"54"
+					"last_update"		"1453884819"
+					"difference"		"986.700012"
+					"value_high"		"56"
+				}
 			}
 		}
 		"30719"
@@ -150145,9 +150397,8 @@
 				{
 					"currency"		"keys"
 					"value"		"2"
-					"last_update"		"1453426829"
-					"difference"		"-1.749500"
-					"value_high"		"2.200000"
+					"last_update"		"1453860180"
+					"difference"		"-1.794000"
 				}
 			}
 			"1"
@@ -150177,10 +150428,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.300000"
-					"last_update"		"1453174328"
-					"difference"		"41.987999"
-					"value_high"		"2.500000"
+					"value"		"2"
+					"last_update"		"1453769375"
+					"difference"		"-7.176000"
 				}
 			}
 		}
@@ -150233,9 +150483,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"2.300000"
-					"last_update"		"1453438472"
-					"difference"		"-12.246500"
+					"value"		"2"
+					"last_update"		"1453769361"
+					"difference"		"-5.382000"
 				}
 			}
 		}
@@ -150301,9 +150551,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"14"
-					"last_update"		"1453623517"
-					"difference"		"-1"
+					"value"		"8"
+					"last_update"		"1453940246"
+					"difference"		"-4"
+					"value_high"		"10"
 				}
 			}
 		}
@@ -150352,9 +150603,10 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"17"
-					"last_update"		"1453511963"
-					"difference"		"-0.495000"
+					"value"		"15"
+					"last_update"		"1454031655"
+					"difference"		"-1.500000"
+					"value_high"		"16"
 				}
 			}
 		}
@@ -150478,10 +150730,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13.330000"
-					"last_update"		"1453625762"
-					"difference"		"-2"
-					"value_high"		"14"
+					"value"		"13"
+					"last_update"		"1453671837"
+					"difference"		"-0.665000"
 				}
 			}
 			"11"
@@ -150489,9 +150740,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"4"
-					"last_update"		"1453251777"
-					"difference"		"-8.747500"
+					"value"		"3"
+					"last_update"		"1454009432"
+					"difference"		"-4.623750"
 				}
 			}
 		}
@@ -150506,9 +150757,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"16"
-					"last_update"		"1453173798"
-					"difference"		"-1.495000"
+					"value"		"14"
+					"last_update"		"1454017604"
+					"difference"		"-0.500000"
 				}
 			}
 		}
@@ -150533,9 +150784,9 @@
 				"0"
 				{
 					"currency"		"keys"
-					"value"		"1.500000"
-					"last_update"		"1452096288"
-					"difference"		"26.242500"
+					"value"		"1.200000"
+					"last_update"		"1453832989"
+					"difference"		"-5.382000"
 				}
 			}
 		}
@@ -150577,8 +150828,8 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"10"
-					"last_update"		"1453066846"
+					"value"		"9"
+					"last_update"		"1453848374"
 					"difference"		"-1"
 				}
 			}
@@ -150613,10 +150864,10 @@
 			{
 				"0"
 				{
-					"currency"		"keys"
-					"value"		"1"
-					"last_update"		"1452280351"
-					"difference"		"17.495001"
+					"currency"		"metal"
+					"value"		"16"
+					"last_update"		"1454009419"
+					"difference"		"-2.495000"
 				}
 			}
 		}
@@ -150641,9 +150892,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13"
-					"last_update"		"1453573114"
-					"difference"		"-1.665000"
+					"value"		"11"
+					"last_update"		"1453770063"
+					"difference"		"-2"
 				}
 			}
 		}
@@ -150663,6 +150914,17 @@
 					"difference"		"-0.330000"
 				}
 			}
+			"11"
+			{
+				"0"
+				{
+					"currency"		"metal"
+					"value"		"14"
+					"last_update"		"1453940329"
+					"difference"		"14.500000"
+					"value_high"		"15"
+				}
+			}
 		}
 		"30754"
 		{
@@ -150675,10 +150937,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"5.330000"
-					"last_update"		"1453250438"
-					"difference"		"-0.500000"
-					"value_high"		"6.330000"
+					"value"		"5"
+					"last_update"		"1453679894"
+					"difference"		"-0.830000"
 				}
 			}
 			"11"
@@ -150713,9 +150974,9 @@
 				"0"
 				{
 					"currency"		"metal"
-					"value"		"13"
-					"last_update"		"1452280157"
-					"difference"		"13"
+					"value"		"12"
+					"last_update"		"1453829432"
+					"difference"		"-1"
 				}
 			}
 		}
@@ -150742,12 +151003,11 @@
 				{
 					"currency"		"metal"
 					"value"		"10"
-					"last_update"		"1452096331"
-					"difference"		"10.500000"
-					"value_high"		"11"
+					"last_update"		"1453939408"
+					"difference"		"-0.500000"
 				}
 			}
 		}
 	}
-	"time_offset"		"1"
+	"time_offset"		"-2"
 }
