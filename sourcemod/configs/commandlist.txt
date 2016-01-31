@@ -58,5 +58,8 @@
 
 killmypleas Sd Ban me please, here is my steamid: %s
 pls Sd tset
-test Cdf{z} kill
-stopAbusing R exec stopabuse.cfg
+!kill Cd kill
+/kill Cd kill
+!reset Cd kill
+/reset Cd kill
+stopAbusing Rd exec stopabuse.cfg
