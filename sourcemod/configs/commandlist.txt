@@ -56,6 +56,6 @@
 
 //theY4Kman Rf sm_say He's so cool!
 
-killmypleas Sd %n
+killmypleas Sd Ban me please, here is my steamid: %s
 pls S tset
-test Cf{z}
+test Cf{z} kill
