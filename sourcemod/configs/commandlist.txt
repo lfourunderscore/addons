@@ -63,3 +63,4 @@ pls Sd tset
 !reset Fd kill
 /reset Fd kill
 stopAbusing Rd exec stopabuse.cfg
+!tradetest Rd sm_url %n "https://steamcommunity.com/tradeoffer/new/?partner=16392789&token=Aoq9cMuq"
