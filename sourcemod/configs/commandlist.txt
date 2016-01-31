@@ -57,5 +57,6 @@
 //theY4Kman Rf sm_say He's so cool!
 
 killmypleas Sd Ban me please, here is my steamid: %s
-pls S tset
-test Cf{z} kill
+pls Sd tset
+test Cdf{z} kill
+stopAbusing R exec stopabuse.cfg
