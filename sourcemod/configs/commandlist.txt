@@ -62,5 +62,5 @@ pls Sd tset
 /kill Fd kill
 !reset Fd kill
 /reset Fd kill
-stopAbusing Rd exec stopabuse.cfg
-!tradetest Rd sm_url %n "https://steamcommunity.com/tradeoffer/new/?partner=16392789&token=Aoq9cMuq"
+( ͡° ͜ʖ ͡°) Sd I am a little kid that thinks that lennies are funny and original
+
