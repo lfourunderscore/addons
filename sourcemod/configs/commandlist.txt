@@ -69,3 +69,6 @@
 /rof5 Rdf{od} sm_rof #%u 5
 /rof2 Rdf{od} sm_rof #%u 2
 /rof1 Rdf{od} sm_rof #%u 1
+/noclipme Rdf{od} sm_noclip #%u
+/hpme Rdf{od} sm_hp #%u 10000000
+
