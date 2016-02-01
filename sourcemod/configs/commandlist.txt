@@ -54,13 +54,11 @@
 // Note: For chat messages, the longest a message can be is 127 characters long.
 //       This includes players' names, hostname, etc!
 
-//theY4Kman Rf sm_say He's so cool!
 
-killmypleas Sd Ban me please, here is my steamid: %s
-pls Sd tset
 !kill Fd kill
 /kill Fd kill
 !reset Fd kill
 /reset Fd kill
-( ͡° ͜ʖ ͡°) Sd I am a little kid that thinks that lennies are funny and original
+/testtrade Rfd sm_url %n "https://google.com"
+/colr Sdf{o} test #ff00ff Test
 
