@@ -63,3 +63,9 @@
 /colr Sdf{o} test #ff00ff Test
 /bhopon Rdf{o} sm_bhop_lazymode #%u 1
 /bhopoff Rdf{o} sm_bhop_lazymode #%u 0
+/aiaon Rdf{od} sm_aia #%u 1
+/aiaoff Rdf{od} sm_aia #%u 0
+/rof10 Rdf{od} sm_rof #%u 10
+/rof5 Rdf{od} sm_rof #%u 5
+/rof2 Rdf{od} sm_rof #%u 2
+/rof1 Rdf{od} sm_rof #%u 1
