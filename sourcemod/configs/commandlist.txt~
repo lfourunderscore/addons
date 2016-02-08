@@ -57,7 +57,8 @@
 
 !kill Fd kill
 /kill Fd kill
-kill Fd kill
+!reset Fd kill
+/reset Fd kill
 /testtrade Rfd sm_url %n "https://google.com"
 /colr Sdf{o} test #ff00ff Test
 /bhopon Rdf{o} sm_bhop_lazymode #%u 1
