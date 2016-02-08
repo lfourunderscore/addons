@@ -1,0 +1,43 @@
+﻿"Phrases"
+{
+	"Rule Line 1"
+	{
+		"en"			"* No chat or voice spam"
+	}
+	"Rule Line 2"
+	{
+		"en"			"* Do not grief"
+	}
+	"Rule Line 3"
+	{
+		"en"			"* No disturbing sprays"
+	}
+	"Rule Line 4"
+	{
+		"en"			"* Do not impersonate an admin in any way"
+	}
+	"Rule Line 5"
+	{
+		"en"			"* Cheating in any way will get you permanently banned"
+	}
+	"Rule Line 6"
+	{
+		"en"			"* No racism in any way"
+	}
+	"Rule Line 7"
+	{
+		"en"			"* And above all else, use common sense"
+	}
+	"Rule Line 8"
+	{
+		"en"			""
+	}
+	"Rule Line 9"
+	{
+		"en"			""
+	}
+	"Rule Line 10"
+	{
+		"en"			""
+	}
+}
