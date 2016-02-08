@@ -20,7 +20,7 @@
 	"Tairuu"
 	{
 		"auth"		"steam"
-		"identity"	"STEAM_0:1:40203265"
+		"identity"	"STEAM_0:1:4020326"
 		"group"		"GenericAdmin"
 		"immunity"	""
 		"flags"		"o"
@@ -71,6 +71,14 @@
 		"identity"	"STEAM_0:0:51175412"
 		"group"		"VIP"
 		"immunity" 	""
+		"flags"		""
+	}
+	"CREFT"
+	{
+		"auth"		"steam"
+		"identity"	"STEAM_0:0:93904372"
+		"group"		"VIP"
+		"immunity"	""
 		"flags"		""
 	}
 }
