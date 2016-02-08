@@ -73,14 +73,6 @@
 		"immunity" 	""
 		"flags"		""
 	}
-	"CREFT"
-	{
-		"auth"		"steam"
-		"identity"	"STEAM_0:0:93904372"
-		"group"		"VIP"
-		"immunity"	""
-		"flags"		""
-	}
 }
 
 

@@ -31,14 +31,4 @@
 		//"timeout"			"0"
 		//"port"			"0"
 	}
-	"adminwatch"
-	{
-		"driver"			"default"
-		"host"				"localhost"
-		"database"			"database"
-		"user"				"username"
-		"pass"				"password"
-		//"timeout"			"0"
-		//"port"			"0"
-	}
 }
