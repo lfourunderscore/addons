@@ -81,6 +81,14 @@
 		"immunity"	""
 		"flags"		""
 	}
+	"Delite"
+	{
+		"auth"		"steam"
+		"identity"	"STEAM_0:1:97004508"
+		"group"		""
+		"immunity"	""
+		"flags"		"o"
+	}
 }
 
 
